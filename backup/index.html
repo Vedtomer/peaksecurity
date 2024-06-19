@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Travel Explorer</title>
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+
+    <!-- Font Awesome for icons -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+    />
+
+    <script
+      type="text/javascript"
+      src="https://static.moxplatform.com/mox.js"
+    ></script>
+    <script type="text/javascript">
+      function digestMessage(message) {
+        if (!message) return Promise.resolve();
+        var msgUint8 = new TextEncoder().encode(message);
+        return crypto.subtle
+          .digest("SHA-256", msgUint8)
+          .then(function (hashBuffer) {
+            return Array.from(new Uint8Array(hashBuffer))
+              .map(function (b) {
+                return b.toString(16).padStart(2, "0");
+              })
+              .join("");
+          });
+      }
+      var ados = ados || {};
+      var urlParams = new URLSearchParams(window.location.search);
+      var emailOrPhone = urlParams.get("mobEmail");
+      var blockchainId = urlParams.get("blockchainId");
+      digestMessage(emailOrPhone).then(function (hashedUserId) {
+        ados.run = ados.run || [];
+        ados.run.push(function () {
+          ados_add_placement(11326, 1262463, "mox7473", [4])
+            .setZone(299666)
+            .setProperties({});
+
+          ados_add_placement(11326, 1262463, "mox4860", [4])
+            .setZone(299666)
+            .setProperties({});
+
+          ados_add_placement(11326, 1262463, "mox5697", [6])
+            .setZone(299666)
+            .setProperties({});
+
+          ados_add_placement(11326, 1262463, "mox8256", [6])
+            .setZone(299666)
+            .setProperties({});
+
+          // hashedUserId="1603dfc616af5394d30cc450e99d8252ff22dadf5afa5c20e1167c70961918bb";
+          if (blockchainId) {
+            hashedUserId = blockchainId;
+          }
+          console.log("has user id============  " + hashedUserId);
+          if (hashedUserId) ados_setUser(hashedUserId);
+          ados_setDomain("promos.moxplatform.com");
+          ados_load();
+        });
+      });
+    </script>
+
+    <!-- Custom CSS -->
+    <style>
+      .ad-banner {
+        text-align: center;
+        padding: 15px;
+      }
+
+      .no-padding {
+        padding: 0;
+      }
+
+      .no-margin {
+        margin: 0;
+      }
+
+
+      .hero-section {
+        background-image: url("./Website banner.png");
+        background-size: cover;
+        background-position: center;
+        height: 500px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #fff;
+        text-align: center;
+        margin-bottom: 15px;
+      }
+
+      .hero-section h1 {
+        font-size: 3.5rem;
+        margin-bottom: 20px;
+      }
+
+      .hero-section p {
+        font-size: 1.2rem;
+        max-width: 600px;
+        margin: 0 auto;
+      }
+
+      .destination-card {
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        /* overflow: hidden; */
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        margin-top: 20px; /* Added margin-top */
+      }
+
+      .destination-card img {
+        max-width: 100%;
+        border-bottom: 1px solid #ddd;
+      }
+
+      .destination-card-body {
+        padding: 20px;
+      }
+
+      .destination-card-body h3 {
+        margin-top: 0;
+      }
+
+      .destination-card-body p {
+        margin-bottom: 0;
+      }
+    </style>
+  </head>
+
+  <body>
+    <!-- <header>
+        <h1 class="animated-header">Travel Explorer</h1>
+    </header> -->
+
+    <!-- Leaderboard Banner Div -->
+
+    <div class="container-fluid no-padding">
+      <div class="hero-section">
+        <div class="container">
+          <h1>Discover Your Next Adventure</h1>
+          <p>Explore the world's most exciting destinations with us!</p>
+        </div>
+      </div>
+
+      <div class="ad-banner" id="mox7473" style="">
+        Ad Leader Board Banner Placeholder
+      </div>
+      <div class="ad-banner" id="mox4860">
+        Ad Leader Board Banner Placeholder
+      </div>
+
+      <div class="row no-margin">
+        <div
+          class="col-lg-2"
+          id="mox5697"
+          style="margin-top: 20px; text-align: center;"
+        >
+          Left Ad Placeholder
+        </div>
+
+        <div class="col-lg-8">
+          <div class="row">
+            <div class="col-md-6">
+              <div class="destination-card">
+                <img
+                  src="./Paris_Landscape_400_250_c1.jpg"
+                  alt="Destination Image"
+                  class="img-fluid w-100"
+                />
+                <!-- Added w-100 class -->
+                <div class="destination-card-body">
+                  <h3>Paris, France</h3>
+                  <p>Experience the romance of the City of Light.</p>
+                  <a href="#" class="btn btn-primary">Explore</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="destination-card">
+                <img
+                  src="./japan.jpeg"
+                  alt="Destination Image"
+                  class="img-fluid w-100"
+                />
+                <div class="destination-card-body">
+                  <h3>Tokyo, Japan</h3>
+                  <p>Discover the blend of tradition and modernity.</p>
+                  <a href="#" class="btn btn-primary">Explore</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div
+          class="col-lg-2"
+          id="mox8256"
+          style="margin-top: 20px; text-align: center;"
+        >
+          Right Ad Placeholder
+        </div>
+      </div>
+    </div>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
