@@ -1,8 +1,28 @@
  <div class="footer">
-        <div class="base-container w-container">
-            {{-- <div class="footer-wrapper">
-                <div class="footer-brand-wrapper">
-                    <h2 class="medium-title left-text">Sing Up to Newsletter</h2>
+     <div class="base-container w-container">
+         <div class="footer-wrapper">
+             <div class="footer-link-wrap" style="width: 50%">
+                 <a href="/" aria-current="page" class="">
+                     <img src="{{ asset('images/logo3.png') }}" loading="lazy" alt="" class="logo-image"
+                         style="width: 170px" /></a>
+             </div>
+             <div class="contacts-detail-wrapper" style="width: 50%">
+                 <h4 class="medium-title left-text contacts-detail" style="text-align: justify">PEAK SECURITY</h4>
+                 <div class="contacts-detail">
+                     <p class="contacts-icon"></p>
+                     <p class="paragraph-no-margin">
+                         #19-6415 street langley, B.C. V2Y 1G8,Canada
+                     </p>
+                 </div>
+                 <div class="contacts-detail">
+                     <p class="contacts-icon"></p>
+                     <a href="tel:+16047676970" class="paragraph-no-margin">604 767 6970</a>
+                 </div>
+                 <div class="contacts-detail">
+                     <p class="contacts-icon"></p>
+                     <a href="mailto:information@office.com" class="paragraph-no-margin">peaksecurity@office.com</a>
+                 </div>
+                 {{-- <h2 class="medium-title left-text">Sing Up to Newsletter</h2>
                     <div class="from w-form">
                         <form id="email-form" name="email-form" data-name="Email Form" method="get"
                             class="footer-form" data-wf-page-id="64735306bb4de7eb23c0f6cd"
@@ -17,39 +37,38 @@
                         <div class="error-message w-form-fail">
                             <div>Oops! Something went wrong while submitting the form.</div>
                         </div>
-                    </div>
-                </div>
-                <div class="footer-link-wrap">
-                    <div class="footer-links-wrapper"><a href="/" aria-current="page"
-                            class="footer-link w--current">Home</a><a href="/about-us"
-                            class="footer-link">About</a></div>
-                    <div class="footer-links-wrapper div-block-7 div-block-8"><a href="/our-team"
-                            class="footer-link">Our Team</a><a href="/services" class="footer-link">Services</a>
-                    </div>
-                    <div class="footer-links-wrapper"><a href="/projects" class="footer-link">Projects</a><a
-                            href="/blog" class="footer-link">Blog</a></div>
-                </div>
-            </div> --}}
-            <div class="copyright-wrapper">
-                <div class="footer-bottom-wrapper">
-                    <div class="footer-copyright">© Security. All Rights Reserved 2024. <a
-                            href="/templates/licensing" class="footer-copyright">Peak Security</a></div>
-                    {{-- <div class="footer-rights-wrapper">
+                    </div> --}}
+             </div>
+             {{-- <div class="footer-link-wrap">
+                 <div class="footer-links-wrapper"><a href="/" aria-current="page"
+                         class="footer-link w--current">Home</a><a href="/about-us" class="footer-link">About</a></div>
+                 <div class="footer-links-wrapper div-block-7 div-block-8"><a href="/our-team" class="footer-link">Our
+                         Team</a><a href="/services" class="footer-link">Services</a>
+                 </div>
+                 <div class="footer-links-wrapper"><a href="/projects" class="footer-link">Projects</a><a href="/blog"
+                         class="footer-link">Blog</a></div>
+             </div> --}}
+         </div>
+         <div class="copyright-wrapper">
+             <div class="footer-bottom-wrapper">
+                 <div class="footer-copyright">© Security. All Rights Reserved 2024. <a href="/templates/licensing"
+                         class="footer-copyright">Peak Security</a></div>
+                 {{-- <div class="footer-rights-wrapper">
                         <div class="footer-rights"><a href="https://wcopilot.com/templates" target="_blank"
                                 class="footer-copyright-link">Template</a> by <a href="https://wcopilot.com/"
                                 target="_blank" class="footer-copyright-link">wCopilot</a></div>
                         <div class="footer-rights">Powered by <a href="https://webflow.com/" target="_blank"
                                 class="footer-copyright-link">Webflow</a></div>
                     </div> --}}
-                </div>
-                <div class="footer-social-icons-wrapper"><a href="https://www.facebook.com/" target="_blank"
-                        class="footer-social-icon"></a><a href="https://twitter.com/" target="_blank"
-                        class="footer-social-icon"></a><a href="https://www.linkedin.com/" target="_blank"
-                        class="footer-social-icon"></a></div>
-            </div>
-        </div>
-    </div>
-    {{-- <div class="hire-popup">
+             </div>
+             <div class="footer-social-icons-wrapper"><a href="https://www.facebook.com/" target="_blank"
+                     class="footer-social-icon"></a><a href="https://twitter.com/" target="_blank"
+                     class="footer-social-icon"></a><a href="https://www.linkedin.com/" target="_blank"
+                     class="footer-social-icon"></a></div>
+         </div>
+     </div>
+ </div>
+ {{-- <div class="hire-popup">
         <div class="hire-popup-wrap">
             <div class="hire-paragraph">Get Unlimited <span class="text-orange">Webflow Development and
                     Design</span> at fraction of Cost by wCopilot</div>
@@ -65,7 +84,7 @@
         </div>
     </div> --}}
 
-    {{-- <a href="https://webflow.com/dashboard/marketplace-checkout/redirect?rtype=Template&amp;rid=64a4792dc20de88d5e994a59"
+ {{-- <a href="https://webflow.com/dashboard/marketplace-checkout/redirect?rtype=Template&amp;rid=64a4792dc20de88d5e994a59"
         target="_blank" class="buy-this-template w-inline-block"><img
             src="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/653658596da4f5ee77553a83_icon%20white.svg"
             loading="lazy" width="16" height="16" alt="webflow icon" class="btn-icon" />

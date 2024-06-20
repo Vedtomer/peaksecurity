@@ -2,7 +2,8 @@
      data-doc-height="1" role="banner" class="navbar w-nav">
      <div class="navbar-background"></div>
      <div class="nav-container w-container">
-         <div class="nav-menu-wrapper"><a href="/" aria-current="page" class="brand w-nav-brand w--current">
+         <div class="nav-menu-wrapper">
+            <a href="/" aria-current="page" class="brand w-nav-brand w--current">
                  <img src="{{ asset('images/logo.png') }}"
                      loading="lazy" alt=""  class="logo-image" /></a>
              <nav role="navigation" class="nav-menu w-nav-menu">
