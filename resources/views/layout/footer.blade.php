@@ -7,11 +7,11 @@
                          style="width: 170px" /></a>
              </div>
              <div class="contacts-detail-wrapper" >
-                 <h4 class="medium-title left-text contacts-detail" style="text-align: justify">PEAK SECURITY</h4>
+                 <h4 class="medium-title left-text contacts-detail" style="text-align: justify">Canada</h4>
                  <div class="contacts-detail">
                      <p class="contacts-icon"></p>
                      <p class="paragraph-no-margin">
-                         #19-6415 street langley, B.C. V2Y 1G8,Canada
+                         #19-6415 street langley, B.C. V2Y 1G8,
                      </p>
                  </div>
                  <div class="contacts-detail">
