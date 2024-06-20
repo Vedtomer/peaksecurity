@@ -1,12 +1,12 @@
  <div class="footer">
      <div class="base-container w-container">
          <div class="footer-wrapper">
-             <div class="footer-link-wrap" style="width: 50%">
+             <div class="footer-link-wrap" >
                  <a href="/" aria-current="page" class="">
                      <img src="{{ asset('images/logo3.png') }}" loading="lazy" alt="" class="logo-image"
                          style="width: 170px" /></a>
              </div>
-             <div class="contacts-detail-wrapper" style="width: 50%">
+             <div class="contacts-detail-wrapper" >
                  <h4 class="medium-title left-text contacts-detail" style="text-align: justify">PEAK SECURITY</h4>
                  <div class="contacts-detail">
                      <p class="contacts-icon"></p>
