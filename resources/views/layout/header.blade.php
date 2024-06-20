@@ -166,8 +166,7 @@
              </nav>
              <div class="right-navbar-wrap">
                  <div class="links-wrap">
-                     <p class="navbar-phone-icon"></p><a href="tel:(704)555-0127" class="navbar-link">(704)
-                         555-0127</a>
+                     <p class="navbar-phone-icon"></p><a href="tel:+16047676970" class="navbar-link">604-767-6970</a>
                  </div>
                  {{-- <div>
                      <div data-node-type="commerce-cart-wrapper" data-open-product="" data-wf-cart-type="modal"

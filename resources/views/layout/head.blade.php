@@ -8,6 +8,8 @@
     <link
         href="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/css/security-wcopilot.webflow.7b532b15f.css"
         rel="stylesheet" type="text/css" />
+
+
     <style>
         @media (min-width:992px) {
             html.w-mod-js:not(.w-mod-ix) [data-w-id="b8c2dbe4-dd1e-b42d-714a-c0d7acbebc47"] {
@@ -215,7 +217,10 @@
     <link href="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/6481b6172bddba5bb58e619c_webclop.png"
         rel="apple-touch-icon" />
 
-
-
+<style>
+        .home-logo-image {
+            width: 284px !important;
+        }
+</style>
 
 </head>
