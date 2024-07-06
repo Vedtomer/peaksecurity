@@ -21,7 +21,7 @@
                  </div>
                  <div class="contacts-detail">
                      <p class="contacts-icon"></p>
-                     <a href="mailto:information@office.com" class="paragraph-no-margin">masoudsecurity@gmail.com</a>
+                     <a href="mailto:masoudsecurity@gmail.com" class="paragraph-no-margin">masoudsecurity@gmail.com</a>
                  </div>
                  {{-- <h2 class="medium-title left-text">Sing Up to Newsletter</h2>
                     <div class="from w-form">
@@ -52,7 +52,7 @@
          </div>
          <div class="copyright-wrapper">
              <div class="footer-bottom-wrapper">
-                 <div class="footer-copyright">© Security. All Rights Reserved 2024. <a href="/templates/licensing"
+                 <div class="footer-copyright">© Security. All Rights Reserved 2024. <a href="/"
                          class="footer-copyright">Peak Security</a></div>
                  {{-- <div class="footer-rights-wrapper">
                         <div class="footer-rights"><a href="https://wcopilot.com/templates" target="_blank"
