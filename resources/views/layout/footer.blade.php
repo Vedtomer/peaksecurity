@@ -1,18 +1,22 @@
  <div class="footer">
      <div class="base-container w-container">
          <div class="footer-wrapper">
-             <div class="footer-link-wrap" >
+             <div class="footer-link-wrap">
                  <a href="/" aria-current="page" class="">
-                     <img src="{{ asset('images/peak-security-logo.png') }}" loading="lazy" alt="" class="logo-image"
-                         style="width: 170px" /></a>
+                     <img src="{{ asset('images/peak-security-logo.png') }}" loading="lazy" alt=""
+                         class="logo-image" style="width: 170px" /></a>
              </div>
-             <div class="contacts-detail-wrapper" >
-                 <h4 class="medium-title left-text contacts-detail" style="text-align: justify">Canada</h4>
+             <div class="contacts-detail-wrapper">
+                 <h4 class="medium-title left-text contacts-detail" style="text-align: justify">PEAK SECURITY
+
+
+                 </h4>
+                 <small class="left-text contacts-detail" style="text-align: justify;padding-top:0px !important">Licensed,Bonded,Uniformed</small>
                  <div class="contacts-detail">
                      <p class="contacts-icon"></p>
                      <p class="paragraph-no-margin">
-                        19445-62A Avenue
-                        Surrey,BC V3S 7L7
+                         19445-62A Avenue
+                         Surrey,BC V3S 7L7
                      </p>
                  </div>
                  <div class="contacts-detail">
