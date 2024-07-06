@@ -1,10 +1,9 @@
 <head>
     <meta charset="utf-8" />
-    <title>Security - </title>
-    <meta content="Security - Webflow Ecommerce website template" property="og:title" />
-    <meta content="Security - Webflow Ecommerce website template" property="twitter:title" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
-    <meta content="Webflow" name="generator" />
+    {!! SEO::generate() !!}
+
+
     <link
         href="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/css/security-wcopilot.webflow.7b532b15f.css"
         rel="stylesheet" type="text/css" />

@@ -4,14 +4,14 @@
      <div class="nav-container w-container">
          <div class="nav-menu-wrapper">
              <a href="/" aria-current="page" class="brand w-nav-brand w--current">
-                 <img src="{{ asset('images/logo.png') }}" loading="lazy" alt="" class="logo-image" /></a>
+                 <img src="{{ asset('images/peak-security-logo.png') }}" loading="lazy" alt="" class="logo-image" /></a>
              <nav role="navigation" class="nav-menu w-nav-menu">
                  <div class="tablet-menu"><a href="/" aria-current="page"
                          class="brand-tablet w-nav-brand w--current"><img
-                             src="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/6475bb5d6c0bc62575b7ff9c_logo.svg"
+                             src="{{ asset('images/peak-security-logo.png') }}"
                              loading="lazy" alt="" height="30" class="logo-image" /></a>
                      <div class="close-menu-button w-nav-button"><img
-                             src="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/64735306bb4de7eb23c0f745_close-btn.svg"
+                             src="{{ asset('images/peak-security-logo.png') }}"
                              loading="lazy" alt="icon" class="nav-close-icon" /></div>
                  </div>
                  <div class="menu-wrap">
