@@ -67,7 +67,8 @@
                                     <div class="contacts-detail">
                                         <p class="contacts-icon"></p>
                                         <p class="paragraph-no-margin">
-                                            #19-6415 street langley, B.C. V2Y 1G8
+                                            19445-62A Avenue
+                                            Surrey,BC V3S 7L7
                                         </p>
                                     </div>
                                     <div class="contacts-detail">
@@ -77,7 +78,7 @@
                                     <div class="contacts-detail">
                                         <p class="contacts-icon"></p>
                                         <a href="mailto:information@office.com"
-                                            class="paragraph-no-margin">peaksecurity@office.com</a>
+                                            class="paragraph-no-margin">masoudsecurity@gmail.com</a>
                                     </div>
                                 </div>
                             </div>
@@ -217,7 +218,7 @@
                         <img src="{{ asset('images/peak.png') }}" loading="lazy" alt="logo image"
                             class="home-logo-image slide-services w-slide" />
 
-                            <img src="{{ asset('images/cctv2.png') }}" loading="lazy" alt="logo image"
+                        <img src="{{ asset('images/cctv2.png') }}" loading="lazy" alt="logo image"
                             class="home-logo-image slide-services w-slide" />
 
                         <img src="{{ asset('images/phone.png') }}" loading="lazy" alt="logo image"
@@ -227,7 +228,7 @@
                         <img src="{{ asset('images/cctv.png') }}" loading="lazy" alt="logo image"
                             class="home-logo-image slide-services w-slide" />
 
-                            <img src="{{ asset('images/guard.png') }}" loading="lazy" alt="logo image"
+                        <img src="{{ asset('images/guard.png') }}" loading="lazy" alt="logo image"
                             class="home-logo-image slide-services w-slide" />
 
 

@@ -18,4 +18,8 @@ Route::get('/about-us', function () {
     return view('about');
 });
 
+Route::get('/faq', function () {
+    return view('faq');
+});
+
 

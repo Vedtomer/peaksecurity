@@ -11,7 +11,8 @@
                  <div class="contacts-detail">
                      <p class="contacts-icon"></p>
                      <p class="paragraph-no-margin">
-                         #19-6415 street langley, B.C. V2Y 1G8,
+                        19445-62A Avenue
+                        Surrey,BC V3S 7L7
                      </p>
                  </div>
                  <div class="contacts-detail">
@@ -20,7 +21,7 @@
                  </div>
                  <div class="contacts-detail">
                      <p class="contacts-icon"></p>
-                     <a href="mailto:information@office.com" class="paragraph-no-margin">peaksecurity@office.com</a>
+                     <a href="mailto:information@office.com" class="paragraph-no-margin">masoudsecurity@gmail.com</a>
                  </div>
                  {{-- <h2 class="medium-title left-text">Sing Up to Newsletter</h2>
                     <div class="from w-form">

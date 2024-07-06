@@ -3,9 +3,8 @@
      <div class="navbar-background"></div>
      <div class="nav-container w-container">
          <div class="nav-menu-wrapper">
-            <a href="/" aria-current="page" class="brand w-nav-brand w--current">
-                 <img src="{{ asset('images/logo.png') }}"
-                     loading="lazy" alt=""  class="logo-image" /></a>
+             <a href="/" aria-current="page" class="brand w-nav-brand w--current">
+                 <img src="{{ asset('images/logo.png') }}" loading="lazy" alt="" class="logo-image" /></a>
              <nav role="navigation" class="nav-menu w-nav-menu">
                  <div class="tablet-menu"><a href="/" aria-current="page"
                          class="brand-tablet w-nav-brand w--current"><img
@@ -22,18 +21,33 @@
                              <div class="nav-dropdown-icon w-icon-dropdown-toggle"></div>
                              <a class="nav-item-title" href="/">Home</a>
                          </div>
-                         {{-- <nav class="nav-dropdown-list w-dropdown-list">
-                             <div class="nav-dropdown-link-wrapper"><a href="/" aria-current="page"
-                                     class="nav-dropdown-link w-dropdown-link w--current"><span
-                                         class="nav-dropdown-link-line"> </span>Home 1</a><a href="/home-2"
-                                     class="nav-dropdown-link w-dropdown-link"><span class="nav-dropdown-link-line">
-                                     </span>Home 2</a><a href="/home-3" class="nav-dropdown-link w-dropdown-link"><span
-                                         class="nav-dropdown-link-line">
-                                     </span>Home 3</a></div>
-                         </nav> --}}
                      </div>
 
+                     <div data-hover="true" data-delay="0" data-w-id="835e7a36-0bd9-c0ee-0eee-ba31bc15d130"
+                         class="nav-dropdown w-dropdown">
+                         <div class="nav-dropdown-toggle w-dropdown-toggle">
+                             <div class="nav-dropdown-icon w-icon-dropdown-toggle"></div>
+                             <a class="nav-item-title" href="/about-us">About Us</a>
+                         </div>
+                     </div>
 
+                     <div data-hover="true" data-delay="0" data-w-id="835e7a36-0bd9-c0ee-0eee-ba31bc15d130"
+                         class="nav-dropdown w-dropdown">
+                         <div class="nav-dropdown-toggle w-dropdown-toggle">
+                             <div class="nav-dropdown-icon w-icon-dropdown-toggle"></div>
+                             <a class="nav-item-title" href="/servicess">Our Servicess</a>
+                         </div>
+                     </div>
+
+                     <div data-hover="true" data-delay="0" data-w-id="835e7a36-0bd9-c0ee-0eee-ba31bc15d130"
+                         class="nav-dropdown w-dropdown">
+                         <div class="nav-dropdown-toggle w-dropdown-toggle">
+                             <div class="nav-dropdown-icon w-icon-dropdown-toggle"></div>
+                             <a class="nav-item-title" href="/faq">FAQ</a>
+                         </div>
+                     </div>
+
+                     {{--
                      <div data-hover="true" data-delay="0" data-w-id="835e7a36-0bd9-c0ee-0eee-ba31bc15d1a0"
                          class="nav-dropdown w-dropdown">
                          <div class="nav-dropdown-toggle w-dropdown-toggle">
@@ -42,15 +56,7 @@
                          </div>
                          <nav class="nav-dropdown-list w-dropdown-list">
                              <div class="nav-dropdown-link-wrapper">
-                                <a href="/about-us"
-                                     class="nav-dropdown-link w-dropdown-link"><span class="nav-dropdown-link-line">
-                                     </span>About Us</a>
 
-                                     {{-- <a href="/pricing"
-                                     class="nav-dropdown-link w-dropdown-link">
-
-                                     <span class="nav-dropdown-link-line">
-                                     </span>Pricing</a> --}}
 
                                      <a href="/our-team"
                                      class="nav-dropdown-link w-dropdown-link"><span class="nav-dropdown-link-line">
@@ -62,22 +68,16 @@
 
                                     </div>
                          </nav>
-                     </div>
-                     <div data-hover="true" data-delay="0" data-w-id="835e7a36-0bd9-c0ee-0eee-ba31bc15d1c3"
+                     </div> --}}
+
+
+                     {{-- <div data-hover="true" data-delay="0" data-w-id="835e7a36-0bd9-c0ee-0eee-ba31bc15d1c3"
                          class="nav-dropdown w-dropdown">
                          <div class="nav-dropdown-toggle w-dropdown-toggle">
                              <div class="nav-dropdown-icon w-icon-dropdown-toggle"></div>
                              <a class="nav-item-title">Services</a>
                          </div>
-                         {{-- <nav class="nav-dropdown-list w-dropdown-list">
-                             <div class="nav-dropdown-link-wrapper"><a href="/services"
-                                     class="nav-dropdown-link w-dropdown-link"><span class="nav-dropdown-link-line">
-                                     </span>Services</a><a
-                                     href="https://security-wcopilot.webflow.io/services/security-consultancy-services"
-                                     class="nav-dropdown-link w-dropdown-link"><span class="nav-dropdown-link-line">
-                                     </span>Service Details</a></div>
-                         </nav> --}}
-                     </div>
+                     </div> --}}
                      {{-- <div data-hover="true" data-delay="0" data-w-id="835e7a36-0bd9-c0ee-0eee-ba31bc15d1d2"
                          class="nav-dropdown w-dropdown">
                          <div class="nav-dropdown-toggle w-dropdown-toggle">
