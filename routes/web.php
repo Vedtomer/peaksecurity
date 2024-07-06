@@ -1,21 +1,9 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\HomeController;
 
-// Route::get('/', function () {
-//     return view('welcome');
-// });
-
-Route::get('/', function () {
-    return view('home');
-});
-
-Route::get('/contact-us', function () {
-    return view('contact-us');
-});
-
-Route::get('/about-us', function () {
-    return view('about');
-});
-
-
+Route::get('/', [HomeController::class, 'index']);
+Route::get('/contact-us', [HomeController::class, 'contactUs']);
+Route::get('/about-us', [HomeController::class, 'aboutUs']);
+Route::get('/faq', [HomeController::class, 'faq']);

@@ -2,16 +2,16 @@
      data-doc-height="1" role="banner" class="navbar w-nav">
      <div class="navbar-background"></div>
      <div class="nav-container w-container">
-         <div class="nav-menu-wrapper"><a href="/" aria-current="page" class="brand w-nav-brand w--current">
-                 <img src="{{ asset('images/logo.png') }}"
-                     loading="lazy" alt=""  class="logo-image" /></a>
+         <div class="nav-menu-wrapper">
+             <a href="/" aria-current="page" class="brand w-nav-brand w--current">
+                 <img src="{{ asset('images/peak-security-logo.png') }}" loading="lazy" alt="" class="logo-image" /></a>
              <nav role="navigation" class="nav-menu w-nav-menu">
                  <div class="tablet-menu"><a href="/" aria-current="page"
                          class="brand-tablet w-nav-brand w--current"><img
-                             src="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/6475bb5d6c0bc62575b7ff9c_logo.svg"
+                             src="{{ asset('images/peak-security-logo.png') }}"
                              loading="lazy" alt="" height="30" class="logo-image" /></a>
                      <div class="close-menu-button w-nav-button"><img
-                             src="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/64735306bb4de7eb23c0f745_close-btn.svg"
+                             src="{{ asset('images/peak-security-logo.png') }}"
                              loading="lazy" alt="icon" class="nav-close-icon" /></div>
                  </div>
                  <div class="menu-wrap">
@@ -21,18 +21,33 @@
                              <div class="nav-dropdown-icon w-icon-dropdown-toggle"></div>
                              <a class="nav-item-title" href="/">Home</a>
                          </div>
-                         {{-- <nav class="nav-dropdown-list w-dropdown-list">
-                             <div class="nav-dropdown-link-wrapper"><a href="/" aria-current="page"
-                                     class="nav-dropdown-link w-dropdown-link w--current"><span
-                                         class="nav-dropdown-link-line"> </span>Home 1</a><a href="/home-2"
-                                     class="nav-dropdown-link w-dropdown-link"><span class="nav-dropdown-link-line">
-                                     </span>Home 2</a><a href="/home-3" class="nav-dropdown-link w-dropdown-link"><span
-                                         class="nav-dropdown-link-line">
-                                     </span>Home 3</a></div>
-                         </nav> --}}
                      </div>
 
+                     <div data-hover="true" data-delay="0" data-w-id="835e7a36-0bd9-c0ee-0eee-ba31bc15d130"
+                         class="nav-dropdown w-dropdown">
+                         <div class="nav-dropdown-toggle w-dropdown-toggle">
+                             <div class="nav-dropdown-icon w-icon-dropdown-toggle"></div>
+                             <a class="nav-item-title" href="/about-us">About Us</a>
+                         </div>
+                     </div>
 
+                     <div data-hover="true" data-delay="0" data-w-id="835e7a36-0bd9-c0ee-0eee-ba31bc15d130"
+                         class="nav-dropdown w-dropdown">
+                         <div class="nav-dropdown-toggle w-dropdown-toggle">
+                             <div class="nav-dropdown-icon w-icon-dropdown-toggle"></div>
+                             <a class="nav-item-title" href="/servicess">Our Servicess</a>
+                         </div>
+                     </div>
+
+                     <div data-hover="true" data-delay="0" data-w-id="835e7a36-0bd9-c0ee-0eee-ba31bc15d130"
+                         class="nav-dropdown w-dropdown">
+                         <div class="nav-dropdown-toggle w-dropdown-toggle">
+                             <div class="nav-dropdown-icon w-icon-dropdown-toggle"></div>
+                             <a class="nav-item-title" href="/faq">FAQ</a>
+                         </div>
+                     </div>
+
+                     {{--
                      <div data-hover="true" data-delay="0" data-w-id="835e7a36-0bd9-c0ee-0eee-ba31bc15d1a0"
                          class="nav-dropdown w-dropdown">
                          <div class="nav-dropdown-toggle w-dropdown-toggle">
@@ -41,15 +56,7 @@
                          </div>
                          <nav class="nav-dropdown-list w-dropdown-list">
                              <div class="nav-dropdown-link-wrapper">
-                                <a href="/about-us"
-                                     class="nav-dropdown-link w-dropdown-link"><span class="nav-dropdown-link-line">
-                                     </span>About Us</a>
 
-                                     {{-- <a href="/pricing"
-                                     class="nav-dropdown-link w-dropdown-link">
-
-                                     <span class="nav-dropdown-link-line">
-                                     </span>Pricing</a> --}}
 
                                      <a href="/our-team"
                                      class="nav-dropdown-link w-dropdown-link"><span class="nav-dropdown-link-line">
@@ -61,22 +68,16 @@
 
                                     </div>
                          </nav>
-                     </div>
-                     <div data-hover="true" data-delay="0" data-w-id="835e7a36-0bd9-c0ee-0eee-ba31bc15d1c3"
+                     </div> --}}
+
+
+                     {{-- <div data-hover="true" data-delay="0" data-w-id="835e7a36-0bd9-c0ee-0eee-ba31bc15d1c3"
                          class="nav-dropdown w-dropdown">
                          <div class="nav-dropdown-toggle w-dropdown-toggle">
                              <div class="nav-dropdown-icon w-icon-dropdown-toggle"></div>
                              <a class="nav-item-title">Services</a>
                          </div>
-                         {{-- <nav class="nav-dropdown-list w-dropdown-list">
-                             <div class="nav-dropdown-link-wrapper"><a href="/services"
-                                     class="nav-dropdown-link w-dropdown-link"><span class="nav-dropdown-link-line">
-                                     </span>Services</a><a
-                                     href="https://security-wcopilot.webflow.io/services/security-consultancy-services"
-                                     class="nav-dropdown-link w-dropdown-link"><span class="nav-dropdown-link-line">
-                                     </span>Service Details</a></div>
-                         </nav> --}}
-                     </div>
+                     </div> --}}
                      {{-- <div data-hover="true" data-delay="0" data-w-id="835e7a36-0bd9-c0ee-0eee-ba31bc15d1d2"
                          class="nav-dropdown w-dropdown">
                          <div class="nav-dropdown-toggle w-dropdown-toggle">
@@ -166,8 +167,7 @@
              </nav>
              <div class="right-navbar-wrap">
                  <div class="links-wrap">
-                     <p class="navbar-phone-icon"></p><a href="tel:(704)555-0127" class="navbar-link">(704)
-                         555-0127</a>
+                     <p class="navbar-phone-icon"></p><a href="tel:+16047676970" class="navbar-link">604-767-6970</a>
                  </div>
                  {{-- <div>
                      <div data-node-type="commerce-cart-wrapper" data-open-product="" data-wf-cart-type="modal"

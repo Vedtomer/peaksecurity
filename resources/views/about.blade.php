@@ -433,7 +433,7 @@
               data-delay="4000"
               data-animation="slide"
               class="slider-services w-slider"
-              data-autoplay="false"
+              data-autoplay="true"
               data-easing="ease"
               data-hide-arrows="false"
               data-disable-swipe="false"
