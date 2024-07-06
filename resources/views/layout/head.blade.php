@@ -216,10 +216,27 @@
     <link href="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/6481b6172bddba5bb58e619c_webclop.png"
         rel="apple-touch-icon" />
 
-<style>
+    <style>
         .home-logo-image {
             width: 284px !important;
         }
-</style>
+
+        @media screen and (max-width: 991px) {
+            .brand-tablet {
+                width: 75px;
+                height: 75px;
+                display: block;
+            }
+        }
+
+        @media screen and (max-width: 991px) {
+            .tablet-menu {
+                justify-content: center;
+            }
+            .mb-2{
+                margin-bottom: 20px;
+            }
+        }
+    </style>
 
 </head>
