@@ -30,7 +30,7 @@
             <div data-hover="true" data-delay="0" data-w-id="835e7a36-0bd9-c0ee-0eee-ba31bc15d130" class="nav-dropdown w-dropdown mb-2">
               {{-- <div class="nav-dropdown-toggle w-dropdown-toggle"> --}}
                 {{-- <div class="nav-dropdown-icon w-icon-dropdown-toggle"></div> --}}
-                <a class="nav-item-title" href="/servicess">Our Servicess</a>
+                <a class="nav-item-title" href="/our-services">Our Services</a>
               {{-- </div> --}}
             </div>
             <div data-hover="true" data-delay="0" data-w-id="835e7a36-0bd9-c0ee-0eee-ba31bc15d130" class="nav-dropdown w-dropdown mb-2">

@@ -233,10 +233,28 @@
             .tablet-menu {
                 justify-content: center;
             }
-            .mb-2{
+
+            .mb-2 {
                 margin-bottom: 20px;
             }
         }
-    </style>
 
+        .services-link-wrap {
+            text-align: center;
+        }
+
+        .section.bg-image {
+
+            background-image: linear-gradient(rgba(16, 24, 40, .8), rgba(16, 24, 40, .8)), url({{ asset('images/bg.png') }});
+            background-size: cover;
+            background-blend-mode: multiply;
+            background-position: center;
+        }
+
+        .section.about-us-banner {
+            background-image: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), linear-gradient(rgba(255, 198, 0, .1), rgba(255, 198, 0, .1)),
+            url({{ asset('images/ab-4.png') }}), linear-gradient(rgba(0, 0, 0, .9), #fff);
+        }
+    </style>
+    @yield('styles')
 </head>

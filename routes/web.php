@@ -7,3 +7,4 @@ Route::get('/', [HomeController::class, 'index']);
 Route::get('/contact-us', [HomeController::class, 'contactUs']);
 Route::get('/about-us', [HomeController::class, 'aboutUs']);
 Route::get('/faq', [HomeController::class, 'faq']);
+Route::get('/our-services', [HomeController::class, 'services']);
