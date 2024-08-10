@@ -3467,6 +3467,15 @@ blockquote {
   padding-bottom: 100px;
 }
 
+@media (max-width: 768px) {
+
+    .section.home-1-banner {
+        background-image: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), linear-gradient(rgba(255, 198, 0, .1), rgba(255, 198, 0, .1)), url("../images/peak-security.png"), linear-gradient(rgba(0, 0, 0, .9), #fff);
+
+      }
+
+}
+
 .section.bg-image {
   background-image: linear-gradient(rgba(16, 24, 40, .8), rgba(16, 24, 40, .8)), url("https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/6476ea1f7c28c52e94199e5a_image.webp");
   background-position: 0 0, 50%;
