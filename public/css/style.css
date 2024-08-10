@@ -3470,7 +3470,9 @@ blockquote {
 @media (max-width: 768px) {
 
     .section.home-1-banner {
-        background-image: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), linear-gradient(rgba(255, 198, 0, .1), rgba(255, 198, 0, .1)), url("../images/peak-security.png"), linear-gradient(rgba(0, 0, 0, .9), #fff);
+        background-position: top;
+  background-repeat: repeat, repeat, no-repeat, repeat;
+  background-size: contain;
 
       }
 
