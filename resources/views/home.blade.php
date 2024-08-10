@@ -1,12 +1,186 @@
 @extends('layout.app')
 
-{{-- @section('title', 'Home') --}}
+@section('styles')
+    <style>
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
+
+        @keyframes slideUp {
+            from {
+                transform: translateY(50px);
+                opacity: 0;
+            }
+
+            to {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+
+        @keyframes scale {
+            from {
+                transform: scale(0.9);
+                opacity: 0;
+            }
+
+            to {
+                transform: scale(1);
+                opacity: 1;
+            }
+        }
+
+        .animate-fadeIn {
+            animation: fadeIn 1s ease-out;
+        }
+
+        .animate-slideUp {
+            animation: slideUp 0.8s ease-out;
+        }
+
+        .animate-scale {
+            animation: scale 0.6s ease-out;
+        }
+
+        .animate-delay-1 {
+            animation-delay: 0.2s;
+        }
+
+        .animate-delay-2 {
+            animation-delay: 0.4s;
+        }
+
+        .animate-delay-3 {
+            animation-delay: 0.6s;
+        }
+
+        .service-list-process-wrap:hover {
+            transform: translateY(-5px);
+            transition: transform 0.3s ease;
+        }
+
+        .right-services-image,
+        .service-list-2-bottom-image {
+            transition: transform 0.3s ease;
+        }
+
+        .right-services-image:hover,
+        .service-list-2-bottom-image:hover {
+            transform: scale(1.05);
+        }
+
+
+        .service-list-2-bottom-section {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 20px;
+            flex-direction: row-reverse;
+            /* Default: Image on the right */
+        }
+
+        .modern-heading {
+            font-family: 'Poppins', sans-serif;
+            font-size: 1.5em;
+            color: #333;
+            margin-bottom: 10px;
+            font-weight: 600;
+            position: relative;
+        }
+
+        .modern-heading::after {
+            content: "";
+            position: absolute;
+            left: 0;
+            bottom: -5px;
+            width: 50px;
+            height: 3px;
+            background-color: #ff4500;
+            /* Accent color */
+        }
+
+        .modern-paragraph {
+            font-family: 'Roboto', sans-serif;
+            font-size: 1em;
+            color: #555;
+            line-height: 1.6;
+            position: relative;
+            margin-top: 0;
+            max-width: 500px;
+        }
+
+        .animate-fadeIn {
+            animation: fadeIn 1.5s ease-in-out;
+        }
+
+        .animate-slideInRight {
+            animation: slideInRight 1.5s ease-out;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
+
+        @keyframes slideInRight {
+            from {
+                transform: translateX(100%);
+                opacity: 0;
+            }
+
+            to {
+                transform: translateX(0);
+                opacity: 1;
+            }
+        }
+
+        /* Responsive Design for Mobile */
+        @media (max-width: 768px) {
+            .service-list-2-bottom-section {
+                flex-direction: column;
+            }
+
+            .service-list-2-bottom-center-block {
+                order: 1;
+                /* Image first on mobile */
+            }
+
+            .service-list-2-bottom-left-block {
+                order: 2;
+                text-align: center;
+                margin-left: 40px !important;
+            }
+
+            .modern-heading {
+                font-size: 1.3em;
+            }
+
+            .modern-paragraph {
+                font-size: 0.95em;
+            }
+
+
+        }
+    </style>
+@endsection
 
 @section('content')
     <section class="section home-1-banner">
         <div class="base-container w-container">
             <div class="home-1-banner-wrapper">
-                <h6 data-w-id="539dfa4f-eb9f-16d9-8207-a0cc102a4425" style="opacity:0" class="small-title">Peak Security</h6>
+                <h6 data-w-id="539dfa4f-eb9f-16d9-8207-a0cc102a4425" style="opacity:0" class="small-title">Peak Security
+                </h6>
                 <h1 data-w-id="87ac9c0f-71ee-e684-3b17-8e2b9a9d0c54" style="opacity:0" class="home-1-banner-title">
                     Secure Your World with Expert Protection</h1>
                 <p data-w-id="1daaf06d-f551-7396-6e73-92224c8052ac" style="opacity:0" class="title-description width">
@@ -18,6 +192,30 @@
             </div>
         </div>
     </section>
+
+
+    <div class="service-list-2-bottom-section">
+        <div class="service-list-2-bottom-center-block animate-slideInRight animate-delay-1">
+            <img src="{{ asset('images/peak-security-01.png') }}" loading="lazy" alt="Patrol vehicle image"
+                class="service-list-2-bottom-image" />
+        </div>
+        <div class="service-list-2-bottom-left-block animate-fadeIn"
+            style="
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    ">
+            <h6 class="modern-heading">Patrolling the Streets, Securing Your Peace of Mind</h6>
+            <p class="modern-paragraph">
+                Our state-of-the-art patrol vehicles are on the move 24/7, ensuring the safety and security of your
+                neighborhood.
+            </p>
+        </div>
+    </div>
+
+
+
 
 
     {{-- <section class="logo-section">
@@ -132,7 +330,8 @@
                     <div data-w-id="d7c4f08b-7d53-ed37-a5ff-9ac5cc42be68" class="left-security-wrap">
                         <h2 data-w-id="4c2249c5-73d0-61c6-15de-13d91097c27d" class="medium-title">Comprehensive Security
                             Solutions for Your Safety</h2>
-                        <p data-w-id="291133d2-7bb5-87df-9da8-a25ff52d6b46" class="info-title">Our expert security services
+                        <p data-w-id="291133d2-7bb5-87df-9da8-a25ff52d6b46" class="info-title">Our expert security
+                            services
                             include round-the-clock patrolling, professional guard services, and state-of-the-art CCTV
                             installation to ensure your complete protection.</p>
                         <div class="banner-button-wrapper">

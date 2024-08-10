@@ -4,9 +4,7 @@
     {!! SEO::generate() !!}
 
 
-    <link
-        href="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/css/security-wcopilot.webflow.7b532b15f.css"
-        rel="stylesheet" type="text/css" />
+    <link href="{{ asset('css/style.css') }}" rel="stylesheet" type="text/css" />
 
 
     <style>
@@ -253,7 +251,7 @@
 
         .section.about-us-banner {
             background-image: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), linear-gradient(rgba(255, 198, 0, .1), rgba(255, 198, 0, .1)),
-            url({{ asset('images/ab-4.png') }}), linear-gradient(rgba(0, 0, 0, .9), #fff);
+                url({{ asset('images/ab-4.png') }}), linear-gradient(rgba(0, 0, 0, .9), #fff);
         }
     </style>
     @yield('styles')
