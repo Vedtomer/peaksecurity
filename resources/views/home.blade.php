@@ -68,6 +68,7 @@
         .right-services-image,
         .service-list-2-bottom-image {
             transition: transform 0.3s ease;
+            margin-left: 40px !important;
         }
 
         .right-services-image:hover,
@@ -173,6 +174,11 @@
 
 
         }
+        @media screen and (max-width: 991px) {
+    .service-list-2-bottom-left-block, .service-list-2-bottom-center-block {
+        min-height: 0px !important;
+    }
+}
     </style>
 @endsection
 
