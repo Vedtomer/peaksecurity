@@ -106,13 +106,14 @@
         }
 
         .modern-paragraph {
-            font-family: 'Roboto', sans-serif;
+
             font-size: 1em;
             color: #555;
             line-height: 1.6;
             position: relative;
             margin-top: 0;
             max-width: 500px;
+            text-align: center;
         }
 
         .animate-fadeIn {
