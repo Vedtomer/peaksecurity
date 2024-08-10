@@ -3474,6 +3474,9 @@ blockquote {
   background-repeat: repeat, repeat, no-repeat, repeat;
   background-size: contain;
 
+    background-image: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), linear-gradient(rgba(255, 198, 0, .1), rgba(255, 198, 0, .1)), url("https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/6475eac326c79b23ed5536dd_image.webp"), linear-gradient(rgba(0, 0, 0, .9), #fff);
+
+
       }
 
 }
