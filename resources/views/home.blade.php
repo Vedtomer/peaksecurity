@@ -174,11 +174,14 @@
 
 
         }
+
         @media screen and (max-width: 991px) {
-    .service-list-2-bottom-left-block, .service-list-2-bottom-center-block {
-        min-height: 0px;
-    }
-}
+
+            .service-list-2-bottom-left-block,
+            .service-list-2-bottom-center-block {
+                min-height: 0px;
+            }
+        }
     </style>
 @endsection
 
@@ -202,26 +205,26 @@
 
 
     <div class="base-container w-container">
-    <div class="service-list-2-bottom-section">
-        <div class="service-list-2-bottom-center-block animate-slideInRight animate-delay-1">
-            <img src="{{ asset('images/peak-security-01.png') }}" loading="lazy" alt="Patrol vehicle image"
-                class="service-list-2-bottom-image" />
-        </div>
-        <div class="service-list-2-bottom-left-block animate-fadeIn"
-            style="
+        <div class="service-list-2-bottom-section">
+            <div class="service-list-2-bottom-center-block animate-slideInRight animate-delay-1">
+                <img src="{{ asset('images/peak-security-01.png') }}" loading="lazy" alt="Patrol vehicle image"
+                    class="service-list-2-bottom-image" />
+            </div>
+            <div class="service-list-2-bottom-left-block animate-fadeIn"
+                style="
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
     ">
-            <h6 class="modern-heading">Patrolling the Streets, Securing Your Peace of Mind</h6>
-            <p class="modern-paragraph">
-                Our state-of-the-art patrol vehicles are on the move 24/7, ensuring the safety and security of your
-                neighborhood.
-            </p>
+                <h6 class="modern-heading">Patrolling the Streets, Securing Your Peace of Mind</h6>
+                <p class="modern-paragraph">
+                    Our state-of-the-art patrol vehicles are on the move 24/7, ensuring the safety and security of your
+                    neighborhood.
+                </p>
+            </div>
         </div>
     </div>
-</div>
 
 
 
@@ -245,10 +248,8 @@
     </div>
 </section> --}}
 
-    <section>
-        <div class="base-container w-container"></div>
-    </section>
-    <section class="section">
+
+    <section class="section" style="padding-top: 0px">
         <div class="base-container w-container">
             <div class="services-top-wrapper">
                 <h2 data-w-id="001c2476-113b-a8a6-0f44-fc19431db125" style="opacity:0" class="medium-title">Services
@@ -263,8 +264,8 @@
                             <div style="height:6px" class="yellow-line"></div>
                             <div class="home-services-item">
                                 <div class="relative-wrapper">
-                                    <p style="color:rgb(255,198,0)" class="serial-number">01</p><a
-                                        href="#" class="w-inline-block">
+                                    <p style="color:rgb(255,198,0)" class="serial-number">01</p><a href="#"
+                                        class="w-inline-block">
                                         <h4 class="services-title">Security Guard Services</h4>
                                     </a>
                                     <p class="services-info">Our trained security guards are deployed on-site to ensure the
@@ -283,8 +284,8 @@
                             <div style="height:6px" class="yellow-line"></div>
                             <div class="home-services-item">
                                 <div class="relative-wrapper">
-                                    <p style="color:rgb(255,198,0)" class="serial-number">02</p><a
-                                        href="#" class="w-inline-block">
+                                    <p style="color:rgb(255,198,0)" class="serial-number">02</p><a href="#"
+                                        class="w-inline-block">
                                         <h4 class="services-title">Security Patrol Services</h4>
                                     </a>
                                     <p class="services-info">We provide hourly patrols with uniformed security officers to
@@ -308,8 +309,8 @@
                             <div style="height:6px" class="yellow-line"></div>
                             <div class="home-services-item">
                                 <div class="relative-wrapper">
-                                    <p style="color:rgb(255,198,0)" class="serial-number">03</p><a
-                                        href="#" class="w-inline-block">
+                                    <p style="color:rgb(255,198,0)" class="serial-number">03</p><a href="#"
+                                        class="w-inline-block">
                                         <h4 class="services-title">CCTV Installation and Guidance</h4>
                                     </a>
                                     <p class="services-info">Our experts offer comprehensive CCTV installation and guidance
@@ -527,7 +528,11 @@
                                     <div class="slide-services w-slide">
                                         <div data-w-id="964176f0-c412-5316-1601-27bfbc9f30a1" style="opacity:0"
                                             class="slider-content-wrapper">
-                                            <p class="home-testimonial-text">I wholeheartedly recommend Security for their outstanding security services. Their team installed a state-of-the-art video surveillance system at our commercial property, and we have been thoroughly impressed with the quality of the cameras and the seamless monitoring experience.</p>
+                                            <p class="home-testimonial-text">I wholeheartedly recommend Security for their
+                                                outstanding security services. Their team installed a state-of-the-art video
+                                                surveillance system at our commercial property, and we have been thoroughly
+                                                impressed with the quality of the cameras and the seamless monitoring
+                                                experience.</p>
                                             <div class="bottom-testimon">
                                                 <div class="author-testimon-wrap">
                                                     <h5 class="author">John Dain</h5>
