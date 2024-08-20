@@ -308,14 +308,14 @@
                             <div class="home-services-item">
                                 <div class="relative-wrapper">
                                     <p style="color:rgb(255,198,0)" class="serial-number">03</p><a
-                                        href="/services/cctv-installation-services" class="w-inline-block">
+                                        href="#" class="w-inline-block">
                                         <h4 class="services-title">CCTV Installation and Guidance</h4>
                                     </a>
                                     <p class="services-info">Our experts offer comprehensive CCTV installation and guidance
                                         services, ensuring your premises are well-monitored with state-of-the-art
                                         surveillance systems.</p>
                                     <div class="services-link-wrap">
-                                        <a href="/services/cctv-installation-services" class="third-button">
+                                        <a href="#" class="third-button">
                                             <img src="{{ asset('images/cctv.gif') }}">
 
                                         </a>
