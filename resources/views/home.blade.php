@@ -92,6 +92,7 @@
             margin-bottom: 10px;
             font-weight: 600;
             position: relative;
+            text-align: center;
         }
 
         .modern-heading::after {
@@ -101,7 +102,7 @@
             bottom: -5px;
             width: 50px;
             height: 3px;
-            background-color: #ffc600;
+            /* background-color: #ffc600; */
             /* Accent color */
         }
 
