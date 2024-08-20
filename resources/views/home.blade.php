@@ -210,7 +210,9 @@
                 <img src="{{ asset('images/peak-security-01.png') }}" loading="lazy" alt="Patrol vehicle image"
                     class="service-list-2-bottom-image" />
             </div>
-            <div class="service-list-2-bottom-left-block animate-fadeIn"
+
+
+            <div class="service-list-2-bottom-left-block animate-fadeIn medium-title"
                 style="
         display: flex;
         flex-direction: column;
