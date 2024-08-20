@@ -527,11 +527,7 @@
                                     <div class="slide-services w-slide">
                                         <div data-w-id="964176f0-c412-5316-1601-27bfbc9f30a1" style="opacity:0"
                                             class="slider-content-wrapper">
-                                            <p class="home-testimonial-text">I highly recommend Security for their
-                                                exceptional security services. Their team installed a comprehensive
-                                                video surveillance system in our commercial property, and we have been
-                                                impressed with the quality of the cameras and the ease of monitoring
-                                                through their user-friendly mobile app.</p>
+                                            <p class="home-testimonial-text">I wholeheartedly recommend Security for their outstanding security services. Their team installed a state-of-the-art video surveillance system at our commercial property, and we have been thoroughly impressed with the quality of the cameras and the seamless monitoring experience.</p>
                                             <div class="bottom-testimon">
                                                 <div class="author-testimon-wrap">
                                                     <h5 class="author">John Dain</h5>
