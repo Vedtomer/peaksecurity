@@ -66,9 +66,9 @@
                                 class="footer-copyright-link">Webflow</a></div>
                     </div> --}}
              </div>
-             <div class="footer-social-icons-wrapper"><a href="https://www.facebook.com/" target="_blank"
+             <div class="footer-social-icons-wrapper"><a href="https://www.facebook.com/p/Masoud-Khalili-100015873754015/" target="_blank"
                      class="footer-social-icon"></a><a href="https://twitter.com/" target="_blank"
-                     class="footer-social-icon"></a><a href="https://www.linkedin.com/" target="_blank"
+                     class="footer-social-icon"></a><a href="https://ca.linkedin.com/in/masoud-khalili-4441ba28" target="_blank"
                      class="footer-social-icon"></a></div>
          </div>
      </div>

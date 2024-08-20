@@ -118,7 +118,7 @@
 <div class="section light-background">
   <div class="base-container w-container">
     <div class="section-title-wrapper animate-fadeIn">
-      <h6 class="small-title">our process</h6>
+      <h6 class="small-title" style="color: #ffc600">our process</h6>
       <h2 class="section-title">How We Secure Your Property</h2>
       <p class="section-title-description">
         Our comprehensive approach ensures your security needs are met with precision and professionalism.

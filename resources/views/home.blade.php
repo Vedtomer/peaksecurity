@@ -101,7 +101,7 @@
             bottom: -5px;
             width: 50px;
             height: 3px;
-            background-color: #ff4500;
+            background-color: #ffc600;
             /* Accent color */
         }
 
@@ -200,6 +200,7 @@
     </section>
 
 
+    <div class="base-container w-container">
     <div class="service-list-2-bottom-section">
         <div class="service-list-2-bottom-center-block animate-slideInRight animate-delay-1">
             <img src="{{ asset('images/peak-security-01.png') }}" loading="lazy" alt="Patrol vehicle image"
@@ -219,6 +220,7 @@
             </p>
         </div>
     </div>
+</div>
 
 
 
@@ -261,14 +263,14 @@
                             <div class="home-services-item">
                                 <div class="relative-wrapper">
                                     <p style="color:rgb(255,198,0)" class="serial-number">01</p><a
-                                        href="/services/security-guard-services" class="w-inline-block">
+                                        href="#" class="w-inline-block">
                                         <h4 class="services-title">Security Guard Services</h4>
                                     </a>
                                     <p class="services-info">Our trained security guards are deployed on-site to ensure the
                                         safety and protection of people and property, providing a reliable presence to deter
                                         and respond to security threats.</p>
                                     <div class="services-link-wrap">
-                                        <a href="/services/security-guard-services" class="third-button">
+                                        <a href="#" class="third-button">
                                             <img src="{{ asset('images/guard.gif') }}">
                                         </a>
                                     </div>
@@ -281,14 +283,14 @@
                             <div class="home-services-item">
                                 <div class="relative-wrapper">
                                     <p style="color:rgb(255,198,0)" class="serial-number">02</p><a
-                                        href="/services/security-patrol-services" class="w-inline-block">
+                                        href="#" class="w-inline-block">
                                         <h4 class="services-title">Security Patrol Services</h4>
                                     </a>
                                     <p class="services-info">We provide hourly patrols with uniformed security officers to
                                         give you the peace of mind you deserve, ensuring continuous monitoring and rapid
                                         response to any incidents.</p>
                                     <div class="services-link-wrap">
-                                        <a href="/services/security-patrol-services" class="third-button">
+                                        <a href="#" class="third-button">
 
 
 
