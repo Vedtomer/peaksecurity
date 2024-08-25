@@ -57,7 +57,7 @@ class HomeController extends Controller
         ];
 
         // Send the email
-        Mail::to('vedtomer5592@gmail.com')->send(new ContactFormMail($formData));
+        Mail::to(['vedtomer5592@gmail.com', 'masoudsecurity@gmail.com'])->send(new ContactFormMail($formData));
 
 
         return response()->json(['msg' => "ok", 'code' => 200]);
