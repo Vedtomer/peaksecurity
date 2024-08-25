@@ -43,7 +43,7 @@
           <h6 class="small-title">Peak Security</h6>
           <h1 class="home-1-banner-title">About Our Security Services</h1>
           <p class="title-description width">
-            Since 1997, Peak Security has been providing cost-effective, round-the-clock security services with a personalized touch. Our vision is to ensure the safety and peace of mind you deserve.
+            Since 2009, Peak Security has been providing cost-effective, round-the-clock security services with a personalized touch. Our vision is to ensure the safety and peace of mind you deserve.
           </p>
         </div>
       </div>
