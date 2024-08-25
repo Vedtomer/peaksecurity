@@ -58,13 +58,7 @@
              <div class="footer-bottom-wrapper">
                  <div class="footer-copyright">© Security. All Rights Reserved 2024. <a href="/"
                          class="footer-copyright">Peak Security</a></div>
-                 {{-- <div class="footer-rights-wrapper">
-                        <div class="footer-rights"><a href="https://wcopilot.com/templates" target="_blank"
-                                class="footer-copyright-link">Template</a> by <a href="https://wcopilot.com/"
-                                target="_blank" class="footer-copyright-link">wCopilot</a></div>
-                        <div class="footer-rights">Powered by <a href="https://webflow.com/" target="_blank"
-                                class="footer-copyright-link">Webflow</a></div>
-                    </div> --}}
+
              </div>
              <div class="footer-social-icons-wrapper"><a href="https://www.facebook.com/p/Masoud-Khalili-100015873754015/" target="_blank"
                      class="footer-social-icon"></a><a href="https://twitter.com/" target="_blank"
@@ -73,31 +67,4 @@
          </div>
      </div>
  </div>
- {{-- <div class="hire-popup">
-        <div class="hire-popup-wrap">
-            <div class="hire-paragraph">Get Unlimited <span class="text-orange">Webflow Development and
-                    Design</span> at fraction of Cost by wCopilot</div>
-            <div class="hire-buttons-wrap"><a href="https://wcopilot.com/schedule-a-demo" target="_blank"
-                    class="hire-buttons w-inline-block">
-                    <div>Schedule a Demo</div>
-                </a><a href="https://wcopilot.com/plans" target="_blank" class="hire-buttons w-inline-block">
-                    <div>View Pricing</div>
-                </a></div>
-            <div data-w-id="20b7d4f7-632a-3195-ed52-b88798ca2688" class="hire-popup-close"><img
-                    src="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/64a68cc91fee01526ac5fe29_Close%20Pop-up.svg"
-                    loading="lazy" alt="" class="close-popup-image" /></div>
-        </div>
-    </div> --}}
 
- {{-- <a href="https://webflow.com/dashboard/marketplace-checkout/redirect?rtype=Template&amp;rid=64a4792dc20de88d5e994a59"
-        target="_blank" class="buy-this-template w-inline-block"><img
-            src="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/653658596da4f5ee77553a83_icon%20white.svg"
-            loading="lazy" width="16" height="16" alt="webflow icon" class="btn-icon" />
-        <div>Buy this Template</div>
-    </a>
-
-    <a href="https://bit.ly/3JNno0u" target="_blank" class="all-templates w-inline-block"><img
-            src="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/64a68cd8b6354a3471d303b9_wCopilot.svg"
-            loading="lazy" alt="" class="btn-icon" />
-        <div>All Templates</div>
-    </a> --}}

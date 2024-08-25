@@ -4,6 +4,8 @@ namespace App\Http\Controllers;
 
 use Artesaos\SEOTools\Facades\SEOTools;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Mail;
+use App\Mail\ContactFormMail;
 
 class HomeController extends Controller
 {
@@ -36,6 +38,30 @@ class HomeController extends Controller
         $this->setupSEO('faq');
         return view('faq');
     }
+
+
+
+    public function sendEmail(Request $request)
+    {
+        // Validate the incoming request
+        $validatedData = $request->validate([
+            'fields.Name' => 'required|string|max:255',
+            'fields.Email' => 'required|email',
+            'fields.field' => 'required|string',
+        ]);
+
+        $formData = [
+            'name' => $validatedData['fields']['Name'],
+            'email' => $validatedData['fields']['Email'],
+            'message' => $validatedData['fields']['field'],
+        ];
+
+        // Send the email
+        Mail::to('vedtomer5592@gmail.com')->send(new ContactFormMail($formData));
+
+        return redirect()->back()->with('success', 'Email sent successfully!');
+    }
+
 
     private function setupSEO($page)
     {
