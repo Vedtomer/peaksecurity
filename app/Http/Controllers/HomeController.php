@@ -43,17 +43,12 @@ class HomeController extends Controller
 
     public function sendEmail(Request $request)
     {
-        // Validate the incoming request
-        $validatedData = $request->validate([
-            'fields.Name' => 'required|string|max:255',
-            'fields.Email' => 'required|email',
-            'fields.field' => 'required|string',
-        ]);
+
 
         $formData = [
-            'name' => $validatedData['fields']['Name'],
-            'email' => $validatedData['fields']['Email'],
-            'message' => $validatedData['fields']['field'],
+            'name' => $request->input('fields.Name'),
+            'email' => $request->input('fields.Email'),
+            'message' => $request->input('fields.field'),
         ];
 
         // Send the email
