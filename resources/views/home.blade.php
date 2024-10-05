@@ -207,18 +207,10 @@
     <div class="base-container w-container">
         <div class="service-list-2-bottom-section">
             <div class="service-list-2-bottom-center-block animate-slideInRight animate-delay-1">
-                <img src="{{ asset('images/peak-security-01.png') }}" loading="lazy" alt="Patrol vehicle image"
-                    class="service-list-2-bottom-image" />
+                <img src="{{ asset('images/peak-security-01.webp') }}" loading="lazy" alt="Patrol vehicle image" class="service-list-2-bottom-image" />
             </div>
-
-
             <div class="service-list-2-bottom-left-block animate-fadeIn medium-title"
-                style="
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-    ">
+                style="display:flex;flex-direction:column;align-items:center;justify-content:center">
                 <h6 class="modern-heading">Patrolling the Streets, Securing Your Peace of Mind</h6>
                 <p class="modern-paragraph">
                     Our state-of-the-art patrol vehicles are on the move 24/7, ensuring the safety and security of your
@@ -227,11 +219,6 @@
             </div>
         </div>
     </div>
-
-
-
-
-
     {{-- <section class="logo-section">
     <div class="base-container w-container">
         <div data-w-id="371251a7-b152-9d42-6b28-86a91f61070d" style="opacity:0" class="logo-wrapper"><img
@@ -249,8 +236,6 @@
                 loading="lazy" alt="logo image" class="home-logo-image" /></div>
     </div>
 </section> --}}
-
-
     <section class="section" style="padding-top: 0px">
         <div class="base-container w-container">
             <div class="services-top-wrapper">
@@ -351,9 +336,7 @@
                                 class="primary-button">More About Us</a>
                         </div>
                     </div>
-                    <img src="{{ asset('images/1.png') }}" loading="lazy"
-                        data-w-id="00074d17-8561-c001-a822-c24f7e0d244b" alt="security image"
-                        class="right-camera-image" />
+                    <img src="{{ asset('images/1.webp') }}" loading="lazy" data-w-id="00074d17-8561-c001-a822-c24f7e0d244b" alt="security image" class="right-camera-image" />
                 </div>
                 <div class="top-security-wrap reverse">
                     <img src="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/6475fa8c171f8371848fea24_image%201.webp"

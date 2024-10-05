@@ -3,14 +3,10 @@
          <div class="footer-wrapper">
              <div class="footer-link-wrap">
                  <a href="/" aria-current="page" class="">
-                     <img src="{{ asset('images/peak-security-logo.png') }}" loading="lazy" alt="logo image"
-                         class="logo-image" style="width: 170px" /></a>
+                     <img src="{{ asset('images/peak-security-logo.webp') }}" loading="lazy" alt="logo image" class="logo-image" style="width:170px" /></a>
              </div>
              <div class="contacts-detail-wrapper">
-                 <h4 class="medium-title left-text contacts-detail" style="text-align: justify">PEAK SECURITY
-
-
-                 </h4>
+                 <h4 class="medium-title left-text contacts-detail" style="text-align: justify">PEAK SECURITY</h4>
                  <small class="left-text contacts-detail" style="text-align: justify;padding-top:0px !important">Licensed,Bonded,Uniformed</small>
                  <div class="contacts-detail">
                      <p class="contacts-icon"></p>
