@@ -3,15 +3,15 @@
     <div class="nav-container w-container">
       <div class="nav-menu-wrapper">
         <a href="/" aria-current="page" class="brand w-nav-brand w--current">
-          <img src="{{ asset('images/peak-security-logo.png') }}" loading="lazy" alt="logo image" class="logo-image" />
+          <img src="{{ asset('images/peak-security-logo.webp') }}" loading="lazy" alt="logo image" class="logo-image" />
         </a>
         <nav role="navigation" class="nav-menu w-nav-menu">
           <div class="tablet-menu">
             <a href="/" aria-current="page" class="brand-tablet w-nav-brand w--current">
-              <img src="{{ asset('images/peak-security-logo.png') }}" loading="lazy" alt="logo image" height="30" class="logo-image" />
+              <img src="{{ asset('images/peak-security-logo.webp') }}" loading="lazy" alt="logo image" height="30" class="logo-image" />
             </a>
             {{-- <div class="close-menu-button w-nav-button">
-              <img src="{{ asset('images/peak-security-logo.png') }}" loading="lazy" alt="icon" class="nav-close-icon" />
+              <img src="{{ asset('images/peak-security-logo.webp') }}" loading="lazy" alt="icon" class="nav-close-icon" />
             </div> --}}
           </div>
           <div class="menu-wrap">
