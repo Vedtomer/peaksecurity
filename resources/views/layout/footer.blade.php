@@ -3,7 +3,7 @@
          <div class="footer-wrapper">
              <div class="footer-link-wrap">
                  <a href="/" aria-current="page" class="">
-                     <img src="{{ asset('images/peak-security-logo.png') }}" loading="lazy" alt=""
+                     <img src="{{ asset('images/peak-security-logo.png') }}" loading="lazy" alt="logo image"
                          class="logo-image" style="width: 170px" /></a>
              </div>
              <div class="contacts-detail-wrapper">

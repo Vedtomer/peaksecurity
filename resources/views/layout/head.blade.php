@@ -1,14 +1,9 @@
 <head>
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
-    <meta name="csrf-token" content="{{ csrf_token() }}"> <!-- CSRF Token Meta Tag -->
-
+    <meta name="csrf-token" content="{{ csrf_token() }}">
     {!! SEO::generate() !!}
-
-
     <link href="{{ asset('css/style.css') }}" rel="stylesheet" type="text/css" />
-
-
     <style>
         @media (min-width:992px) {
             html.w-mod-js:not(.w-mod-ix) [data-w-id="b8c2dbe4-dd1e-b42d-714a-c0d7acbebc47"] {

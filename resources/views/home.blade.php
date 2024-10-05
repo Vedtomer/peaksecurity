@@ -275,7 +275,7 @@
                                         and respond to security threats.</p>
                                     <div class="services-link-wrap">
                                         <a href="#" class="third-button">
-                                            <img src="{{ asset('images/guard.gif') }}">
+                                            <img src="{{ asset('images/guard.gif') }}" alt="Guard animation">
                                         </a>
                                     </div>
                                 </div>
@@ -299,7 +299,7 @@
 
 
                                             <!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
-                                            <img src="{{ asset('images/patrol.gif') }}">
+                                            <img src="{{ asset('images/patrol.gif') }}" alt="Patrol animation">
 
                                         </a>
                                     </div>
@@ -320,7 +320,7 @@
                                         surveillance systems.</p>
                                     <div class="services-link-wrap">
                                         <a href="#" class="third-button">
-                                            <img src="{{ asset('images/cctv.gif') }}">
+                                            <img src="{{ asset('images/cctv.gif') }}" alt="CCTV animation">
 
                                         </a>
                                     </div>
