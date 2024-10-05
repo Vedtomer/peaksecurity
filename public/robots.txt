@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://peak-security.ca/sitemap.xml

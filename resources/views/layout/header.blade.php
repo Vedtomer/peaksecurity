@@ -3,12 +3,12 @@
     <div class="nav-container w-container">
       <div class="nav-menu-wrapper">
         <a href="/" aria-current="page" class="brand w-nav-brand w--current">
-          <img src="{{ asset('images/peak-security-logo.png') }}" loading="lazy" alt="" class="logo-image" />
+          <img src="{{ asset('images/peak-security-logo.png') }}" loading="lazy" alt="logo image" class="logo-image" />
         </a>
         <nav role="navigation" class="nav-menu w-nav-menu">
           <div class="tablet-menu">
             <a href="/" aria-current="page" class="brand-tablet w-nav-brand w--current">
-              <img src="{{ asset('images/peak-security-logo.png') }}" loading="lazy" alt="" height="30" class="logo-image" />
+              <img src="{{ asset('images/peak-security-logo.png') }}" loading="lazy" alt="logo image" height="30" class="logo-image" />
             </a>
             {{-- <div class="close-menu-button w-nav-button">
               <img src="{{ asset('images/peak-security-logo.png') }}" loading="lazy" alt="icon" class="nav-close-icon" />
@@ -50,7 +50,7 @@
           <a href="/contact-us" class="primary-button-white tablet-button">contact us</a>
         </div>
         <div class="menu-button w-nav-button">
-          <img src="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/6475de1963db6e5b5f56e6f4_icon%20(4).png" loading="lazy" alt="" height="16" class="image-burger" />
+          <img src="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/6475de1963db6e5b5f56e6f4_icon%20(4).png" loading="lazy" alt="icon" height="16" class="image-burger" />
         </div>
       </div>
     </div>
