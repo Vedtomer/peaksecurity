@@ -6,8 +6,8 @@
     RewriteEngine On
 
     # Handle Non www redirect to www
-    #RewriteCond %{HTTPS}s ^on(s)|
-    #RewriteRule ^(.*)$ http%1://www.%{HTTP_HOST}/$1 [R=301,L]
+    RewriteCond %{HTTP_HOST} ^peak-security.ca [NC]
+    RewriteRule ^(.*)$ http://www.peak-security.ca/$1 [L,R=301]
 
     # Handle Authorization Header
     RewriteCond %{HTTP:Authorization} .
