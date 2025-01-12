@@ -62,7 +62,7 @@
         <div class="diverse-images-wrapper">
           <div class="left-wrapper-with-number animate-slideInFromLeft animate-delay-1">
             <img src="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/6478611be2b1b054206e1cc5_image%203.webp"
-              loading="lazy" alt="security patrol image" class="left-diverse-image hover-scale" />
+              loading="lazy" alt="patrol security services" class="left-diverse-image hover-scale" />
             <div class="about-us-numbers-wrapper">
               <div class="about-us-numbers-wrap animate-scaleUp animate-delay-1">
                 <p class="numbers">25+</p>
@@ -106,7 +106,7 @@
             </ul>
           </div>
           <div class="service-list-section-wrap animate-slideInFromRight">
-            <img src="{{ asset('images/7.png') }}"  loading="lazy" alt="Peak Security patrol vehicle" class="right-services-image hover-scale" />
+            <img src="{{ asset('images/7.png') }}"  loading="lazy" alt="Peak Security mobile patrol" class="right-services-image hover-scale" />
           </div>
         </div>
       </div>

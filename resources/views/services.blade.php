@@ -177,7 +177,7 @@
           https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/64789f631f140c6821e10a84_image-p-500.webp  500w,
           https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/64789f631f140c6821e10a84_image-p-800.webp  800w,
           https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/64789f631f140c6821e10a84_image.webp       1000w
-        " alt="patrol service image" class="service-list-2-bottom-image" />
+        " alt="Mobile patrol service" class="service-list-2-bottom-image" />
     </div>
     <div class="service-list-2-bottom-center-block animate-fadeIn animate-delay-1">
       <img src="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/64789ef779340c2044e26da0_image.webp"
@@ -186,7 +186,7 @@
           https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/64789ef779340c2044e26da0_image-p-500.webp  500w,
           https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/64789ef779340c2044e26da0_image-p-800.webp  800w,
           https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/64789ef779340c2044e26da0_image.webp       1000w
-        " alt="CCTV service image" class="service-list-2-bottom-image" />
+        " alt="CCTV installation service" class="service-list-2-bottom-image" />
     </div>
   </div>
 </div>

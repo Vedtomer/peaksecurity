@@ -114,15 +114,15 @@ class HomeController extends Controller
 
     private function getSEOData($page)
     {
-        $baseTitle = "Peak Security | CCTV Installation & Security Services";
-        $baseDescription = "Peak Security provides top-notch security solutions in Canada including CCTV installation, guarded security, and patrol services.";
+        $baseTitle = "";
+        $baseDescription = "";
         $baseImage = asset('images/peak-security-logo.png');
 
         $data = [
             'home' => [
-                'title' => $baseTitle,
-                'description' => $baseDescription,
-                'url' => url('/'),
+                'title' => "Security Companies in surrey BC | Best Security Services $baseTitle ",
+                'description' => "Peak Security is security company in surrey BC, offering expert solutions for comprehensive security services across BC. Call us now!$baseDescription",
+                'url' => url('/')
             ],
             'services' => [
                 'title' => "Our Services - $baseTitle",

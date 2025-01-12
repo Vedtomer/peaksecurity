@@ -192,10 +192,9 @@
                 <h6 data-w-id="539dfa4f-eb9f-16d9-8207-a0cc102a4425" style="opacity:0" class="small-title">Peak Security
                 </h6>
                 <h1 data-w-id="87ac9c0f-71ee-e684-3b17-8e2b9a9d0c54" style="opacity:0" class="home-1-banner-title">
-                    Secure Your World with Expert Protection</h1>
+                    Best Security Company in Surrey BC with Professionals Security Services</h1>
                 <p data-w-id="1daaf06d-f551-7396-6e73-92224c8052ac" style="opacity:0" class="title-description width">
-                    Licensed, Bonded, Uniformed - Providing Cost-Effective Guarding, Patrolling, and CCTV Services Across
-                    Canada</p>
+                    Licensed, bonded, and uniformed, we deliver affordable security services across Canada, including expert guarding, patrols, and CCTV installations, ensuring comprehensive protection for your property and peace of mind.</p>
                 <div data-w-id="0c0c196a-2366-25d9-b3c6-56e19f24bc27" style="opacity:0" class="banner-button-wrapper"><a
                         href="/about-us" class="primary-button w-button">About Us</a><a href="/contact-us"
                         class="white-button-bg w-button">Contact Us</a></div>
@@ -207,7 +206,7 @@
     <div class="base-container w-container">
         <div class="service-list-2-bottom-section">
             <div class="service-list-2-bottom-center-block animate-slideInRight animate-delay-1">
-                <img src="{{ asset('images/peak-security-01.webp') }}" loading="lazy" alt="Patrol vehicle image" class="service-list-2-bottom-image" />
+                <img src="{{ asset('images/peak-security-01.webp') }}" loading="lazy" alt="Mobile patrol security" class="service-list-2-bottom-image" />
             </div>
             <div class="service-list-2-bottom-left-block animate-fadeIn medium-title"
                 style="display:flex;flex-direction:column;align-items:center;justify-content:center">
@@ -239,7 +238,7 @@
     <section class="section" style="padding-top: 0px">
         <div class="base-container w-container">
             <div class="services-top-wrapper">
-                <h2 data-w-id="001c2476-113b-a8a6-0f44-fc19431db125" style="opacity:0" class="medium-title">Services
+                <h2 data-w-id="001c2476-113b-a8a6-0f44-fc19431db125" style="opacity:0" class="medium-title">Security Services
                 </h2><a data-w-id="e51817a0-5920-23c8-44e0-271cedb9ed66" style="opacity:0" href="/our-services"
                     class="primary-button">view all</a>
             </div>
@@ -253,14 +252,14 @@
                                 <div class="relative-wrapper">
                                     <p style="color:rgb(255,198,0)" class="serial-number">01</p><a href="#"
                                         class="w-inline-block">
-                                        <h4 class="services-title">Security Guard Services</h4>
+                                        <h3 class="services-title">Security Guard Services</h3>
                                     </a>
                                     <p class="services-info">Our trained security guards are deployed on-site to ensure the
                                         safety and protection of people and property, providing a reliable presence to deter
                                         and respond to security threats.</p>
                                     <div class="services-link-wrap">
                                         <a href="#" class="third-button">
-                                            <img src="{{ asset('images/guard.gif') }}" alt="Guard animation">
+                                            <img src="{{ asset('images/guard.gif') }}" alt="Security guard services">
                                         </a>
                                     </div>
                                 </div>
@@ -273,7 +272,7 @@
                                 <div class="relative-wrapper">
                                     <p style="color:rgb(255,198,0)" class="serial-number">02</p><a href="#"
                                         class="w-inline-block">
-                                        <h4 class="services-title">Security Patrol Services</h4>
+                                        <h3 class="services-title">Mobile Patrol Services</h3>
                                     </a>
                                     <p class="services-info">We provide hourly patrols with uniformed security officers to
                                         give you the peace of mind you deserve, ensuring continuous monitoring and rapid
@@ -284,7 +283,7 @@
 
 
                                             <!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
-                                            <img src="{{ asset('images/patrol.gif') }}" alt="Patrol animation">
+                                            <img src="{{ asset('images/patrol.gif') }}" alt="Mobile patrol security officer">
 
                                         </a>
                                     </div>
@@ -298,14 +297,14 @@
                                 <div class="relative-wrapper">
                                     <p style="color:rgb(255,198,0)" class="serial-number">03</p><a href="#"
                                         class="w-inline-block">
-                                        <h4 class="services-title">CCTV Installation and Guidance</h4>
+                                        <h3 class="services-title">CCTV Installation & Guidance</h3>
                                     </a>
                                     <p class="services-info">Our experts offer comprehensive CCTV installation and guidance
                                         services, ensuring your premises are well-monitored with state-of-the-art
                                         surveillance systems.</p>
                                     <div class="services-link-wrap">
                                         <a href="#" class="third-button">
-                                            <img src="{{ asset('images/cctv.gif') }}" alt="CCTV animation">
+                                            <img src="{{ asset('images/cctv.gif') }}" alt="CCTV Installation and Guidance">
 
                                         </a>
                                     </div>
@@ -326,7 +325,7 @@
                 <div class="top-security-wrap">
                     <div data-w-id="d7c4f08b-7d53-ed37-a5ff-9ac5cc42be68" class="left-security-wrap">
                         <h2 data-w-id="4c2249c5-73d0-61c6-15de-13d91097c27d" class="medium-title">Comprehensive Security
-                            Solutions for Your Safety</h2>
+                            Services for Your Safety</h2>
                         <p data-w-id="291133d2-7bb5-87df-9da8-a25ff52d6b46" class="info-title">Our expert security
                             services
                             include round-the-clock patrolling, professional guard services, and state-of-the-art CCTV
@@ -336,11 +335,11 @@
                                 class="primary-button">More About Us</a>
                         </div>
                     </div>
-                    <img src="{{ asset('images/1.webp') }}" loading="lazy" data-w-id="00074d17-8561-c001-a822-c24f7e0d244b" alt="security image" class="right-camera-image" />
+                    <img src="{{ asset('images/1.webp') }}" loading="lazy" data-w-id="00074d17-8561-c001-a822-c24f7e0d244b" alt="Security officers" class="right-camera-image" />
                 </div>
                 <div class="top-security-wrap reverse">
                     <img src="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/6475fa8c171f8371848fea24_image%201.webp"
-                        loading="lazy" data-w-id="96a0ed23-50d7-f2c6-fd9b-c38866626373" alt="security image"
+                        loading="lazy" data-w-id="96a0ed23-50d7-f2c6-fd9b-c38866626373" alt="24/7 Security Surveillance with Advanced CCTV Systems"
                         class="right-camera-image" />
                     <div data-w-id="96a0ed23-50d7-f2c6-fd9b-c3886662636b" class="left-security-wrap">
                         <h2 data-w-id="96a0ed23-50d7-f2c6-fd9b-c3886662636c" class="medium-title">24/7 Surveillance with
@@ -364,10 +363,9 @@
         <div class="base-container w-container">
             <div class="services-top-wrapper vertical">
                 <div class="left-wrapper">
-                    <h3 data-w-id="daef64d6-04d4-94fe-eec9-827dd3acd918" style="opacity:0" class="medium-title">Let’s
-                        Protect Canada B.E</h3>
-                    <p data-w-id="859bb2a8-4432-b1ec-d340-0d935fdd4a38" style="opacity:0" class="short-description">Our
-                        team of security experts is dedicated to helping you find the perfect solutions to keep your home
+                    <h3 data-w-id="daef64d6-04d4-94fe-eec9-827dd3acd918" style="opacity:0" class="medium-title">Your Safety, Our Priority</h3>
+                    <p data-w-id="859bb2a8-4432-b1ec-d340-0d935fdd4a38" style="opacity:0" class="short-description">Peak-Security
+                        team is dedicated to helping you to find the perfect security solutions to keep your home
                         safe and secure.</p>
                 </div>
             </div>
@@ -401,7 +399,7 @@
                 <div class="protect-content-wrapper">
                     <img src="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/64760b50a2274699f5d1dcad_icon.png"
                         loading="lazy" style="opacity:0" data-w-id="ffff9db3-6402-7936-3450-3d10439fa4b0"
-                        alt="icon" />
+                        alt="Lock security" />
                     <h2 data-w-id="46f904ba-b8fd-3ec2-b294-1b3e991e74ac" style="opacity:0" class="medium-title width">
                         Enhance Security with Peak Security</h2>
                     <p data-w-id="867c3ccf-87c7-fdb5-9381-569952ee4b17" style="opacity:0" class="short-description">
@@ -410,7 +408,7 @@
                     </p>
                     <img class="image-camera"
                         src="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/64760bdf491e945217a963ad_image.webp"
-                        alt="camera image" style="opacity:0"
+                        alt="expert security camera professionals" style="opacity:0"
                         sizes="(max-width: 479px) 100vw, (max-width: 673px) 95vw, (max-width: 991px) 640px, (max-width: 1279px) 46vw, 572.9140625px"
                         data-w-id="538918b9-b6cd-c423-ac73-33fb6c8cba01" loading="lazy"
                         srcset="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/64760bdf491e945217a963ad_image-p-500.webp 500w, https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/64760bdf491e945217a963ad_image.webp 640w" />
@@ -736,7 +734,7 @@
                 </div>
                 <img src="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/6478611ce2b1b054206e1d11_image%201.webp"
                     loading="lazy" style="opacity: 1" data-w-id="8f2126c2-27c1-7a42-dc7b-383043da2720"
-                    alt="about us image" class="wrapper-with-progress-bar" />
+                    alt="Home security services" class="wrapper-with-progress-bar" />
             </div>
         </div>
     </section>
