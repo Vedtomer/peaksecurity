@@ -21,6 +21,24 @@ class HomeController extends Controller
         return view('services');
     }
 
+    public function securityGuard()
+    {
+        $this->setupSEO('securityGuard');
+        return view('securityguard');
+    }
+
+    public function patrol()
+    {
+        $this->setupSEO('patrol');
+        return view('patrol');
+    }
+
+    public function cctv()
+    {
+        $this->setupSEO('cctv');
+        return view('cctv');
+    }
+
     public function contactUs()
     {
         $this->setupSEO('contact');
@@ -110,6 +128,21 @@ class HomeController extends Controller
                 'title' => "Our Services - $baseTitle",
                 'description' => "Explore our comprehensive security services including CCTV installation, guarded security, and patrol services.",
                 'url' => url('/services'),
+            ],
+            'securityGuard' => [
+                'title' => "Security Guard Services - $baseTitle",
+                'description' => "Discover professional security guard services to protect your property, events, and business with Peak Security.",
+                'url' => url('/services/security-guard-services'),
+            ],
+            'patrol' => [
+                'title' => "Patrol Services - $baseTitle",
+                'description' => "Learn about our reliable patrol services offering regular checks and incident management for maximum safety.",
+                'url' => url('/services/patrol-services'),
+            ],
+            'cctv' => [
+                'title' => "CCTV Installation Services - $baseTitle",
+                'description' => "Install and maintain advanced CCTV systems with Peak Security's expert CCTV services in Canada.",
+                'url' => url('/services/cctv-services'),
             ],
             'contact' => [
                 'title' => "Contact Us - $baseTitle",
