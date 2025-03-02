@@ -71,8 +71,8 @@
                         style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
                     <div data-w-id="96a0ed23-50d7-f2c6-fd9b-c3886662636b" class="left-security-wrap"
                         style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
-                        <h2 data-w-id="96a0ed23-50d7-f2c6-fd9b-c3886662636c" class="medium-title" style="">Security
-                            Guard Services in Surrey BC</h2>
+                        <h1 data-w-id="96a0ed23-50d7-f2c6-fd9b-c3886662636c" class="medium-title" style="">Security
+                            Guard Services in Surrey BC</h1>
                         <p data-w-id="96a0ed23-50d7-f2c6-fd9b-c3886662636e" class="info-title" style="">Our Peak
                             Security skilled Security Guards Services in Surrey BC offer on-site
                             protection for your property and personnel.We provide 24/7 coverage services for various
