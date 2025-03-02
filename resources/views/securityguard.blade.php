@@ -62,7 +62,7 @@
 @endsection
 @section('content')
     <div class="yellow-bg">
-        <section class="section services" style="padding-top:80px;grid-row-gap:10px ">
+        <section class="section services" style="padding-top:80px;grid-row-gap:50px ">
             <div class="base-container w-container">
                 <div class="top-security-wrap reverse" style="justify-content: center">
                     <img src="{{ asset('images/security-guard-services.png') }}" loading="lazy" alt="camera image"
