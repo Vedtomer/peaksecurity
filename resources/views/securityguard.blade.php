@@ -81,7 +81,7 @@
                     </div>
                 </div>
             </div>
-            {{-- <div class="section services-page" style="padding-bottom: 0px;">
+            <div class="section services-page" style="padding-bottom: 0px;">
                 <div class="base-container w-container">
                     <div class="base-container w-container" style="margin-bottom: 40px;padding-bottom: 40px;">
                         <h2>Best Security Companies in Surrey BC You Can Trust</h2>
@@ -91,7 +91,8 @@
                             the ideal fit for the job, offering you confidence and peace of mind in your safety, including
                             Commercial, Residential, and Event security guard services. </p>
                     </div>
-                    <div class="w-dyn-list">
+
+                    {{-- <div class="w-dyn-list">
                         <div role="list" class="services-collection-list w-dyn-items">
                             <div data-w-id="93706dea-b0d8-5338-755a-570b605c4171"
                                 style="opacity: 1;transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);transform-style: preserve-3d;"
@@ -144,9 +145,9 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> --}}
                 </div>
-            </div> --}}
+            </div>
             <div class="base-container w-container">
                 <div class="service-list-section-wrapper">
                     <div class="service-list-section-wrap first-child">
