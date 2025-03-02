@@ -81,7 +81,7 @@
                     </div>
                 </div> --}}
             </div>
-            <div class="section services-page" style="padding-bottom: 0px;">
+            {{-- <div class="section services-page" style="padding-bottom: 0px;">
                 <div class="base-container w-container">
                     <div class="base-container w-container" style="margin-bottom: 40px;padding-bottom: 40px;">
                         <h2>Best Security Companies in Surrey BC You Can Trust</h2>
@@ -146,7 +146,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> --}}
             <div class="base-container w-container">
                 <div class="service-list-section-wrapper">
                     <div class="service-list-section-wrap first-child">
