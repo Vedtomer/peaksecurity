@@ -1,13 +1,15 @@
- <div class="footer">
+ <div class="footer" style="padding-bottom:5px">
      <div class="base-container w-container">
-         <div class="footer-wrapper">
+         <div class="footer-wrapper" style="margin-bottom: 5px">
              <div class="footer-link-wrap">
                  <a href="/" aria-current="page" class="">
-                     <img src="{{ asset('images/peak-security-logo.webp') }}" loading="lazy" alt="logo image" class="logo-image" style="width:170px" /></a>
+                     <img src="{{ asset('images/peak-security-logo.webp') }}" loading="lazy" alt="logo image"
+                         class="logo-image" style="width:170px" /></a>
              </div>
              <div class="contacts-detail-wrapper">
                  <h4 class="medium-title left-text contacts-detail" style="text-align: justify">PEAK SECURITY</h4>
-                 <small class="left-text contacts-detail" style="text-align: justify;padding-top:0px !important">Licensed,Bonded,Uniformed</small>
+                 <small class="left-text contacts-detail"
+                     style="text-align: justify;padding-top:0px !important">Licensed,Bonded,Uniformed</small>
                  <div class="contacts-detail">
                      <p class="contacts-icon"></p>
                      <p class="paragraph-no-margin">
@@ -50,17 +52,17 @@
                          class="footer-link">Blog</a></div>
              </div> --}}
          </div>
-         <div class="copyright-wrapper">
+         <div class="copyright-wrapper" style="padding-top:0px">
              <div class="footer-bottom-wrapper">
                  <div class="footer-copyright">© Security. All Rights Reserved 2024. <a href="/"
                          class="footer-copyright">Peak Security</a></div>
 
              </div>
-             <div class="footer-social-icons-wrapper"><a href="https://www.facebook.com/p/Masoud-Khalili-100015873754015/" target="_blank"
+             <div class="footer-social-icons-wrapper"><a
+                     href="https://www.facebook.com/p/Masoud-Khalili-100015873754015/" target="_blank"
                      class="footer-social-icon"></a><a href="https://twitter.com/" target="_blank"
-                     class="footer-social-icon"></a><a href="https://ca.linkedin.com/in/masoud-khalili-4441ba28" target="_blank"
-                     class="footer-social-icon"></a></div>
+                     class="footer-social-icon"></a><a href="https://ca.linkedin.com/in/masoud-khalili-4441ba28"
+                     target="_blank" class="footer-social-icon"></a></div>
          </div>
      </div>
  </div>
-
