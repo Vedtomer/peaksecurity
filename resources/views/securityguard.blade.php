@@ -2,7 +2,7 @@
 @section('styles')
     <style>
         @media (max-width: 768px) {
-            .right-services-image {
+            .top-img {
                 content: url("{{ asset('images/security-guard-services-675.png') }}");
             }
         }
@@ -62,7 +62,7 @@
                 <div class="service-list-section-wrapper">
                     <div class="service-list-section-wrap">
                         <img src="{{ asset('images/security-guard-services.png') }}" loading="lazy" alt="camera image"
-                            class="right-services-image">
+                            class="right-services-image top-img">
                     </div>
                     <div class="service-list-section-wrap first-child">
                         <h1>Security Guard Services in Surrey BC</h1>
