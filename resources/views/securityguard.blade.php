@@ -64,7 +64,7 @@
     <div class="yellow-bg">
         <section class="section services" style=" ">
             <div class="base-container w-container">
-                {{-- <div class="top-security-wrap reverse" style="justify-content: center">
+                <div class="top-security-wrap reverse" style="justify-content: center">
                     <img src="{{ asset('images/security-guard-services.png') }}" loading="lazy" alt="camera image"
                         loading="lazy" data-w-id="96a0ed23-50d7-f2c6-fd9b-c38866626373"
                         alt="24/7 Security Surveillance with Advanced CCTV Systems" class="right-camera-image"
@@ -79,7 +79,7 @@
                             settings,including commercial,residentia,and events.</p>
 
                     </div>
-                </div> --}}
+                </div>
             </div>
             {{-- <div class="section services-page" style="padding-bottom: 0px;">
                 <div class="base-container w-container">
