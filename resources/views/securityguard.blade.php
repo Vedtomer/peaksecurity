@@ -91,13 +91,13 @@
                             the ideal fit for the job, offering you confidence and peace of mind in your safety, including
                             Commercial, Residential, and Event security guard services. </p>
                     </div>
-
-                    {{-- <div class="w-dyn-list">
+                    
+                    <div class="w-dyn-list">
                         <div role="list" class="services-collection-list w-dyn-items">
                             <div data-w-id="93706dea-b0d8-5338-755a-570b605c4171"
                                 style="opacity: 1;transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);transform-style: preserve-3d;"
                                 role="listitem" class="collect-item w-dyn-item">
-                                <div style="height: 6px; width: 362.7px" class="yellow-line"></div>
+                                <div style="height: 6px;" class="yellow-line"></div>
                                 <div class="home-services-item" style="min-height: 100%">
                                     <div class="relative-wrapper">
                                         <p style="color: rgb(255, 198, 0)" class="serial-number">01</p>
@@ -114,7 +114,7 @@
                             <div data-w-id="93706dea-b0d8-5338-755a-570b605c4171"
                                 style="opacity: 1;transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg)rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);transform-style: preserve-3d;"
                                 role="listitem" class="collect-item w-dyn-item">
-                                <div style="height: 6px; width: 362.7px" class="yellow-line"></div>
+                                <div style="height: 6px;" class="yellow-line"></div>
                                 <div class="home-services-item" style="min-height: 100%">
                                     <div class="relative-wrapper">
                                         <p style="color: rgb(255, 198, 0)" class="serial-number">02</p>
@@ -131,7 +131,7 @@
                                 style="opacity: 1;transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg)
               rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);transform-style: preserve-3d;"
                                 role="listitem" class="collect-item w-dyn-item">
-                                <div style="height: 6px; width: 362.7px" class="yellow-line"></div>
+                                <div style="height: 6px;" class="yellow-line"></div>
                                 <div class="home-services-item" style="min-height: 100%">
                                     <div class="relative-wrapper">
                                         <p style="color: rgb(255, 198, 0)" class="serial-number">03</p>
@@ -145,7 +145,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div> --}}
+                    </div>
                 </div>
             </div>
             <div class="base-container w-container">
