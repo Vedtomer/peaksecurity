@@ -11,7 +11,8 @@
         .numbers-wrapper {
             display: flex;
             flex-wrap: wrap;
-            gap: 20px; /* Space between cards */
+            gap: 20px;
+            /* Space between cards */
             justify-content: center;
         }
 
@@ -20,8 +21,10 @@
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             padding: 20px;
-            width: calc(33.333% - 40px); /* Three cards per row with gap */
-            max-width: 300px; /* Maximum width for each card */
+            width: calc(33.333% - 40px);
+            /* Three cards per row with gap */
+            max-width: 300px;
+            /* Maximum width for each card */
             text-align: center;
             transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
@@ -44,31 +47,37 @@
 
         @media (max-width: 768px) {
             .numbers-wrap {
-                width: calc(50% - 20px); /* Two cards per row on smaller screens */
+                width: calc(50% - 20px);
+                /* Two cards per row on smaller screens */
             }
         }
 
         @media (max-width: 480px) {
             .numbers-wrap {
-                width: 100%; /* One card per row on mobile */
+                width: 100%;
+                /* One card per row on mobile */
             }
         }
     </style>
 @endsection
 @section('content')
     <div class="yellow-bg">
-        <section class="section services">
+        <section class="section services" style=" ">
             <div class="base-container w-container">
-                <div class="service-list-section-wrapper">
-                    <div class="service-list-section-wrap">
-                        <img src="{{ asset('images/security-guard-services.png') }}" loading="lazy" alt="camera image"
-                            class="right-services-image top-img">
-                    </div>
-                    <div class="service-list-section-wrap first-child">
-                        <h1>Security Guard Services in Surrey BC</h1>
-                        <p class=""> Our Peak Security skilled Security Guards Services in Surrey BC offer on-site
+                <div class="top-security-wrap reverse" style="justify-content: center">
+                    <img src="{{ asset('images/security-guard-services.png') }}" loading="lazy" alt="camera image"
+                        loading="lazy" data-w-id="96a0ed23-50d7-f2c6-fd9b-c38866626373"
+                        alt="24/7 Security Surveillance with Advanced CCTV Systems" class="right-camera-image"
+                        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
+                    <div data-w-id="96a0ed23-50d7-f2c6-fd9b-c3886662636b" class="left-security-wrap"
+                        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
+                        <h2 data-w-id="96a0ed23-50d7-f2c6-fd9b-c3886662636c" class="medium-title" style="">Security
+                            Guard Services in Surrey BC</h2>
+                        <p data-w-id="96a0ed23-50d7-f2c6-fd9b-c3886662636e" class="info-title" style="">Our Peak
+                            Security skilled Security Guards Services in Surrey BC offer on-site
                             protection for your property and personnel.We provide 24/7 coverage services for various
-                            settings,including commercial,residentia,and events. </p>
+                            settings,including commercial,residentia,and events.</p>
+
                     </div>
                 </div>
             </div>
