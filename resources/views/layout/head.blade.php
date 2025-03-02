@@ -1,4 +1,5 @@
 <head>
+    <meta name="google-site-verification" content="by5cIqumVHyvIWNjrWvpXpMGE59qGC0RM2nSADkiP34" />
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <meta name="csrf-token" content="{{ csrf_token() }}">

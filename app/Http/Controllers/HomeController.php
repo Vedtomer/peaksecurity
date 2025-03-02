@@ -6,6 +6,7 @@ use Artesaos\SEOTools\Facades\SEOTools;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
 use App\Mail\ContactFormMail;
+use SEOMeta;
 
 class HomeController extends Controller
 {
@@ -88,7 +89,7 @@ class HomeController extends Controller
 
         SEOTools::setTitle($seoData['title']);
         SEOTools::setDescription($seoData['description']);
-
+    
         SEOTools::opengraph()->setTitle($seoData['title']);
         SEOTools::opengraph()->setDescription($seoData['description']);
         SEOTools::opengraph()->setUrl($seoData['url']);
@@ -104,8 +105,11 @@ class HomeController extends Controller
         SEOTools::jsonLd()->setDescription($seoData['description']);
         SEOTools::jsonLd()->setType('WebPage');
         SEOTools::jsonLd()->addImage($seoData['image']);
+        
 
         SEOTools::setCanonical($seoData['url']);
+        
+        SEOMeta::setRobots('index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1');
 
         if ($page === 'faq') {
             SEOTools::jsonLd()->addValue('@graph', $this->getFAQData());
@@ -123,6 +127,7 @@ class HomeController extends Controller
                 'title' => "Security Companies in surrey BC | Best Security Services $baseTitle ",
                 'description' => "Peak Security is security company in surrey BC, offering expert solutions for comprehensive security services across BC. Call us now!$baseDescription",
                 'url' => url('/')
+                
             ],
             'services' => [
                 'title' => "Our Services - $baseTitle",
@@ -130,18 +135,18 @@ class HomeController extends Controller
                 'url' => url('/services'),
             ],
             'securityGuard' => [
-                'title' => "Security Guard Services - $baseTitle",
-                'description' => "Discover professional security guard services to protect your property, events, and business with Peak Security.",
+                'title' => "Security Guard Services in Surrey BC | Security Guard Company - $baseTitle",
+                'description' => "Security Guard Services in Surrey, BC by Peak Security offers expert protection for businesses, properties, and events with trained professional Guards.$baseDescription",
                 'url' => url('/services/security-guard-services'),
             ],
             'patrol' => [
-                'title' => "Patrol Services - $baseTitle",
-                'description' => "Learn about our reliable patrol services offering regular checks and incident management for maximum safety.",
+                'title' => "Patrol Services in Surrey BC - Peak Security - $baseTitle",
+                'description' => "Patrol Services in Surrey BC by Peak Security. Protect your assets with our 24/7 mobile patrols, ensuring peace of mind with proactive, reliable security.$baseDescription",
                 'url' => url('/services/patrol-services'),
             ],
             'cctv' => [
-                'title' => "CCTV Installation Services - $baseTitle",
-                'description' => "Install and maintain advanced CCTV systems with Peak Security's expert CCTV services in Canada.",
+                'title' => "CCTV Camera Services Surrey BC - Peak Security - $baseTitle",
+                'description' => "CCTV Camera Services Surrey BC, with Peak Security, offers reliable security solutions, for crime, and ensures 24/7 surveillance for homes and businesses.$baseDescription",
                 'url' => url('/services/cctv-services'),
             ],
             'contact' => [
@@ -158,7 +163,7 @@ class HomeController extends Controller
                 'title' => "FAQ - $baseTitle",
                 'description' => "Find answers to frequently asked questions about our CCTV installation, guarded security, and patrol services.",
                 'url' => url('/faq'),
-            ],
+            ]
         ];
 
         $data[$page]['image'] = $baseImage;

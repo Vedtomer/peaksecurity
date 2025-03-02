@@ -55,14 +55,18 @@
     <div class="base-container w-container">
       <div class="home-3-banner-wrapper animate-fadeIn">
         <h1 class="home-1-banner-title dark-copy">
-          Our Security Services
+        CCTV Camera Services Surrey BC
         </h1>
         <p class="title-description dark-center-copy">
-          Protecting what matters most with professional security solutions tailored to your needs.
+         At Peak Security, we offer professional CCTV Camera Services in SurreyB C designed to provide peace of mind and ensure the safety of your home or business. Whether you are looking to monitor your property for security service reasons or to enhance the CCTV surveillance system in place, our team is here to deliver the best solutions tailored to your needs.
         </p>
       </div>
     </div>
   </section>
+  <div class="base-container w-container">
+  <h2> Our CCTV Installation Services Surrey BC</h2>
+  <p>At Peak Security, we offer comprehensive CCTV Installation Services for both homes and businesses across Surrey, BC, and surrounding areas. We use the latest technology to ensure your property is well-secured, with clear video footage and advanced features such as motion detection, remote access, and cloud storage options. Whether you're protecting your home, office, or business premises, Peak Security's CCTV installation solutions provide reliable protection, giving you peace of mind knowing that your property is always being monitored.
+</p>
   <div class="section services-page">
     <div class="base-container w-container">
       <div class="w-dyn-list">
@@ -73,10 +77,10 @@
               <div class="relative-wrapper">
                 <p style="color: rgb(255, 198, 0)" class="serial-number">01</p>
                 <a href="#" class="w-inline-block">
-                  <h4 class="services-title">Security Guard Services</h4>
+                  <h3 class="services-title">Residential CCTV Installation Services</h3>
                 </a>
                 <p class="services-info">
-                  Our highly trained security guards provide on-site protection for your property and personnel. Available 24/7 for various settings including commercial, residential, and events.
+                  Safeguard your home with our top-of-the-line security camera systems. Our team designs the best Residential CCTV Installation Service and installs systems that offer 24/7 monitoring, helping you keep an eye on your property, whether you're at home or away. With high-definition cameras and smart features, we ensure your family and belongings are protected at all times.
                 </p>
               </div>
             </div>
@@ -87,11 +91,11 @@
               <div class="relative-wrapper">
                 <p style="color: rgb(255, 198, 0)" class="serial-number">02</p>
                 <a href="#" class="w-inline-block">
-                  <h4 class="services-title">Patrol Services</h4>
+                  <h3 class="services-title">Commercial CCTV Installation Services</h3>
                 </a>
                 <p class="services-info">
-                  Our mobile patrol units provide regular checks on your property, ensuring comprehensive security coverage. Ideal for large areas or multiple locations.
-                </p>
+                 Peak Security provides customized Commercial CCTV installation Services tailored to the unique needs of your property. From retail stores to office buildings and warehouses, we equip your premises with reliable surveillance systems that help deter criminal activity and ensure you have clear evidence when needed.
+               </p>
               </div>
             </div>
           </div>
@@ -153,11 +157,22 @@
   <div class="base-container w-container">
     <div class="service-list-section-wrapper">
       <div class="service-list-section-wrap first-child animate-fadeIn">
-        <h3>We provide high-quality & cost-effective security services</h3>
-        <ul role="list" class="service-list">
-          <li>Professional security guards for various settings</li>
-          <li>Regular patrol services for comprehensive coverage</li>
-          <li>State-of-the-art CCTV installation and monitoring</li>
+        <h2>Why Choose Peak Security for CCTV Camera Services in Surrey BC?</h2>
+            <p>Peak Security stands out for its commitment to providing high-quality, reliable CCTV camera services in Surrey, BC. Our expert team offers customized solutions for both residential and commercial propertie, ensuring maximum protection with the latest surveillance technology. We pride ourselves on clear, detailed installations, responsive customer service, and a focus on your security needs. With Peak Securit, you can trust that your property is always under watch, giving you peace of mind at all times.
+            </p>
+            <ul role="list" class="service-list">
+           <h3><li>Expert Technicians</li></h3>
+            <p>Our skilled and experienced technicians are well-versed in all types of CCTV systems, from traditional analog to the latest digital IP cameras. We ensure flawless installation with a focus on optimal camera positioning, wiring, and system setup to guarantee the best surveillance coverage.
+          </p>
+          <h3><li>Tailored Solutions</li></h3>
+          <p>Every property is different, which is why we offer customized CCTV systems based on your specific security needs. Our team assesses your space and recommends the best system, whether you're looking to cover a small office, large commercial property, or residential areas.
+          </p>
+          <h3><li>High-Quality Equipment</li></h3>
+          <p>We only use high-definition cameras and top-of-the-line security equipment, ensuring your surveillance footage is clear, reliable, and accessible at any time. From remote viewing options to advanced motion detection features, our systems are designed to give you the best in security technology.
+           </p>
+         <h3><li>24/7 Support</li></h3>
+         <p>Once installed, our team continues to offer support for any questions or issues you might have. We also offer ongoing maintenance services to ensure your CCTV system operates smoothly and effectively.
+           </p>
         </ul>
       </div>
       <div class="service-list-section-wrap animate-fadeIn animate-delay-1">
@@ -187,8 +202,12 @@
           https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/64789ef779340c2044e26da0_image-p-800.webp  800w,
           https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/64789ef779340c2044e26da0_image.webp       1000w
         " alt="CCTV service image" class="service-list-2-bottom-image" />
+        
     </div>
   </div>
 </div>
+    <h3> Get a Consultation with Peak Security For CCTV Camera Services – Contact Us Today!</h3>
+    <p>At Peak Security, we understand how important it is to keep your property safe. Our goal is to offer you the best CCTV Camera Installation Service, in Canada’s surrounding locations like Surrey, Langley, Vancouver, and Calgary. Contact Us!
+      </p>
 
 @endsection

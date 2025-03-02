@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+        <meta name="google-site-verification" content="by5cIqumVHyvIWNjrWvpXpMGE59qGC0RM2nSADkiP34" />
         <title>Default page</title>
         <link rel="icon" type="image/x-icon" href="https://hpanel.hostinger.com/favicons/hostinger.png">
         <meta charset="utf-8">

@@ -5444,6 +5444,22 @@ blockquote {
   width: 100%;
   height: 100%;
 }
+.service-list-2-bottom-image-car {
+  object-fit: cover;
+  object-position: 50% 50%;
+  width: 100%;
+  height: 100%;
+  margin-left: 100px;
+}
+.service-why-choose {
+    flex-direction: column;
+  align-items: flex-start;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  display: flex
+}
 
 .primary-button-white {
   border: 1px solid var(--white);
