@@ -203,4 +203,26 @@
             </div>
         </section>
     </div>
-@endsection
+
+
+    <h4> 
+
+        <p>
+
+
+            <div class="section yellow-bg" style="padding:30px 0px">
+                <div class="base-container w-container" style="padding-bottom: 0px">
+                    
+                    <div class=" " style="margin-bottom:0px;text-align:center">
+                        <h4 data-w-id="d46bd76c-3549-92cc-5606-39f5f9660d0d" style="opacity:1" >
+                            Get in Touch for Trusted Security Guard Services by Peak Security in Surrey, BC - Contact Us Now!</h4>
+        
+                        <p class="accordion-list-content">We understand the importance of reliable and professional security guard service for your business or property. Whether you need on-site patrols, event security, or tailored security solutions, our team in Surrey, BC is here to provide the best protection for your needs. </p>
+        
+                        <a href="/contact-us" class="primary-button-white tablet-button" style="margin:20px 0px">contact us</a>
+                    </div>
+        
+                </div>
+            </div>
+
+    @endsection

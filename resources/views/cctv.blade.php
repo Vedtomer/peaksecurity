@@ -68,7 +68,7 @@
         <section class="section services" style="padding-top:100px;grid-row-gap:50px ">
             <div class="base-container w-container">
                 <div class="top-security-wrap reverse" style="justify-content: center">
-                    <img src="{{ asset('images/security-guard-services.png') }}" loading="lazy" alt="camera image"
+                    <img src="{{ asset('images/patrol-services.png') }}" loading="lazy" alt="camera image"
                         loading="lazy" data-w-id="96a0ed23-50d7-f2c6-fd9b-c38866626373"
                         alt="24/7 Security Surveillance with Advanced CCTV Systems" class="right-camera-image"
                         style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
@@ -147,7 +147,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div role="listitem" class="collect-item w-dyn-item animate-slideUp animate-delay-3">
+                                {{-- <div role="listitem" class="collect-item w-dyn-item animate-slideUp animate-delay-3">
                                     <div style="height: 6px" class="yellow-line"></div>
                                     <div class="home-services-item" style="min-height: 100%">
                                         <div class="relative-wrapper">
@@ -163,7 +163,7 @@
                                             </p>
                                         </div>
                                     </div>
-                                </div>
+                                </div> --}}
                             </div>
                         </div>
                     </div>
