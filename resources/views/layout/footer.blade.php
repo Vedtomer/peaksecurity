@@ -64,7 +64,7 @@
                      class="footer-social-icon"></a><a href="https://www.linkedin.com/company/peak-security-servcies/about/?viewAsMember=true"
                      target="_blank" class="footer-social-icon"></a>
                      <a href="https://www.instagram.com/peak_security/?hl=en" target="_blank"
-                     class="footer-social-icon"></a>
+                     class="footer-social-icon"></a>
                      
                      
                      </div>
