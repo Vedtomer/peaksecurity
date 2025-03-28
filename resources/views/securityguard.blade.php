@@ -65,9 +65,9 @@
         <section class="section services" style="padding-top:100px;grid-row-gap:50px ">
             <div class="base-container w-container">
                 <div class="top-security-wrap reverse" style="justify-content: center">
-                    <img src="{{ asset('images/security-guard-services.png') }}" loading="lazy" alt="camera image"
+                    <img src="{{ asset('images/security-guard-services.png') }}" loading="lazy"
                         loading="lazy" data-w-id="96a0ed23-50d7-f2c6-fd9b-c38866626373"
-                        alt="24/7 Security Surveillance with Advanced CCTV Systems" class="right-camera-image"
+                        alt="Security Guard Services in Surrey BC" class="right-camera-image"
                         style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
                     <div data-w-id="96a0ed23-50d7-f2c6-fd9b-c3886662636b" class="left-security-wrap"
                         style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
@@ -101,7 +101,7 @@
                                     <div class="relative-wrapper">
                                         <p style="color: rgb(255, 198, 0)" class="serial-number">01</p>
                                         <a href="/services/security-consultancy-services" class="w-inline-block">
-                                            <h4 class="services-title"> Commercial Security Guard </h4>
+                                            <h3 class="services-title"> Commercial Security Guard </h3>
                                         </a>
                                         <p class="services-info"> Protect your business with our professional Commercial
                                             Security Guards services, available around the clock. We offer 24/7 coverage to
@@ -118,7 +118,7 @@
                                     <div class="relative-wrapper">
                                         <p style="color: rgb(255, 198, 0)" class="serial-number">02</p>
                                         <a href="/services/cybersecurity-solutions" class="w-inline-block">
-                                            <h4 class="services-title">Residential Security Guard</h4>
+                                            <h3 class="services-title">Residential Security Guard</h3>
                                         </a>
                                         <p class="services-info"> Ensure the safety of your home or Residential Security
                                             Guard Services with trusted security personnel in Surrey BC. Keep your home and
@@ -135,7 +135,7 @@
                                     <div class="relative-wrapper">
                                         <p style="color: rgb(255, 198, 0)" class="serial-number">03</p>
                                         <a href="/services/security-guard-services" class="w-inline-block">
-                                            <h4 class="services-title">Event Security Services</h4>
+                                            <h3 class="services-title">Event Security Services</h3>
                                         </a>
                                         <p class="services-info"> Ensure the safety of your home or Residential Security
                                             Guard Services with trusted security personnel in Surrey BC. Keep your home and
@@ -158,44 +158,44 @@
                             perform at their best, your facility thrives, and your success is our priority. </p>
                     </div>
                     <div class="service-list-section-wrap">
-                        <img src="{{ asset('images/Why-Choose-Our-Security.png') }}" loading="lazy" alt="camera image"
+                        <img src="{{ asset('images/Why-Choose-Our-Security.png') }}" loading="lazy" alt="Best Security Companies in Surrey BC"
                             class="right-services-image">
                     </div>
                 </div>
                 <div class="numbers-wrapper">
                     <div data-w-id="service-1" class="numbers-wrap">
-                        <h6 class="small-heading">Largely Trained Professionals</h6>
+                        <h4 class="small-heading">Largely Trained Professionals</h4>
                         <p class="short-description">Our Security Guards are precisely named and trained to handle a wide
                             range of security situations. They're skilled, experienced, and ready to protect your property.
                         </p>
                     </div>
                     <div data-w-id="service-2" class="numbers-wrap">
-                        <h6 class="small-heading">Reliable and Trustworthy</h6>
+                        <h4 class="small-heading">Reliable and Trustworthy</h4>
                         <p class="short-description">We pride ourselves on providing security services you can count on. Our
                             guards are dedicated to keeping your premises safe and secure.</p>
                     </div>
                     <div data-w-id="service-3" class="numbers-wrap">
-                        <h6 class="small-heading">24/7 Coverage</h6>
+                        <h4 class="small-heading">24/7 Coverage</h4>
                         <p class="short-description">Whether it's day or night, we offer round-the-clock security services.
                             You can have peace of mind knowing that your property is protected 24/7.</p>
                     </div>
                     <div data-w-id="service-4" class="numbers-wrap">
-                        <h6 class="small-heading">Customizable Solutions</h6>
+                        <h4 class="small-heading">Customizable Solutions</h4>
                         <p class="short-description">We understand that every customer has different requirements. Our
                             security services can be tailored to meet your specific needs, ensuring the best protection.</p>
                     </div>
                     <div data-w-id="service-5" class="numbers-wrap">
-                        <h6 class="small-heading">Advanced Technology</h6>
+                        <h4 class="small-heading">Advanced Technology</h4>
                         <p class="short-description">We use the latest security technology, including surveillance systems
                             and alarm monitoring, to enhance the safety of your property.</p>
                     </div>
                     <div data-w-id="service-6" class="numbers-wrap">
-                        <h6 class="small-heading">Quick Response Time</h6>
+                        <h4 class="small-heading">Quick Response Time</h4>
                         <p class="short-description">Our security team is always ready to respond quickly to any situation,
                             ensuring your safety is never compromised.</p>
                     </div>
                     <div data-w-id="service-7" class="numbers-wrap">
-                        <h6 class="small-heading">Professional Reputation</h6>
+                        <h4 class="small-heading">Professional Reputation</h4>
                         <p class="short-description">Peak Security has a proven track record of providing excellent
                             Security Guard Services in Surrey, BC.</p>
                     </div>

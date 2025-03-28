@@ -76,7 +76,8 @@
                   <h4 class="services-title">Security Guard Services</h4>
                 </a>
                 <p class="services-info">
-                  Our highly trained security guards provide on-site protection for your property and personnel. Available 24/7 for various settings including commercial, residential, and events.
+                  Our highly trained <a href="/services/security-guard-services"style="color:red">Security Guard</a> provide on-site protection for your property and personnel. Available 24/7 for various settings including commercial, residential, and events.
+                
                 </p>
               </div>
             </div>
@@ -90,7 +91,7 @@
                   <h4 class="services-title">Patrol Services</h4>
                 </a>
                 <p class="services-info">
-                  Our mobile patrol units provide regular checks on your property, ensuring comprehensive security coverage. Ideal for large areas or multiple locations.
+                  Our <a href="https://www.peak-security.ca/services/patrol-services"style="color:red">mobile patrol units</a> provide regular checks on your property, ensuring comprehensive security coverage. Ideal for large areas or multiple locations.
                 </p>
               </div>
             </div>
@@ -104,7 +105,7 @@
                   <h4 class="services-title">CCTV Services</h4>
                 </a>
                 <p class="services-info">
-                  State-of-the-art CCTV installation and monitoring services. We design, install, and maintain surveillance systems to keep your property under constant watch.
+                  State-of-the-art <a href="https://www.peak-security.ca/services/cctv-services"style="color:red">CCTV installation and monitoring services</a>. We design, install, and maintain surveillance systems to keep your property under constant watch.
                 </p>
               </div>
             </div>

@@ -19,7 +19,7 @@ class HomeController extends Controller
     public function services()
     {
         $this->setupSEO('services');
-        return view('services');
+        return view('ourservices');
     }
 
     public function securityGuard()
@@ -124,7 +124,7 @@ class HomeController extends Controller
 
         $data = [
             'home' => [
-                'title' => "Security Companies in surrey BC | Best Security Services $baseTitle ",
+                'title' => "Best Security Companies in surrey BC | Best Security Services $baseTitle ",
                 'description' => "Peak Security is security company in surrey BC, offering expert solutions for comprehensive security services across BC. Call us now!$baseDescription",
                 'url' => url('/')
                 
@@ -132,7 +132,7 @@ class HomeController extends Controller
             'services' => [
                 'title' => "Our Services - $baseTitle",
                 'description' => "Explore our comprehensive security services including CCTV installation, guarded security, and patrol services.",
-                'url' => url('/services'),
+                'url' => url('/our-services'),
             ],
             'securityGuard' => [
                 'title' => "Security Guard Services in Surrey BC | Security Guard Company - $baseTitle",

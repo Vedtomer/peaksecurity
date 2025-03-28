@@ -62,9 +62,9 @@
         <section class="section services" style="padding-top:100px;grid-row-gap:50px ">
             <div class="base-container w-container">
                 <div class="top-security-wrap reverse" style="justify-content: center">
-                    <img src="{{ asset('images/security-guard-services.gif') }}" loading="lazy" alt="camera image"
+                    <img src="{{ asset('images/security-guard-services.gif') }}" loading="lazy"
                         loading="lazy" data-w-id="96a0ed23-50d7-f2c6-fd9b-c38866626373"
-                        alt="24/7 Security Surveillance with Advanced CCTV Systems" class="right-camera-image"
+                        alt="Patrol Services in Surrey BC"class="right-camera-image"
                         style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
                     <div data-w-id="96a0ed23-50d7-f2c6-fd9b-c3886662636b" class="left-security-wrap"
                         style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
@@ -160,7 +160,7 @@
 
                     </div>
                     <img src="{{ asset('images/event.png') }}" loading="lazy"
-                        data-w-id="00074d17-8561-c001-a822-c24f7e0d244b" alt="Security officers" class="right-camera-image"
+                        data-w-id="00074d17-8561-c001-a822-c24f7e0d244b" alt="Event Security - Mobile Patrol Services Near Me" class="right-camera-image"
                         style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
                 </div>
 
@@ -216,14 +216,14 @@
                             comprehensive patrol solutions tailored to meet your unique needs. </p>
                     </div>
                     <div class="service-list-section-wrap">
-                        <img src="{{ asset('images/Why-Choose-Our-Security.png') }}" loading="lazy" alt="camera image"
+                        <img src="{{ asset('images/Why-Choose-Our-Security.png') }}" loading="lazy" alt="Patrol Security guard sitting at a desk."
                             class="right-services-image">
                     </div>
                 </div>
                 <div class="numbers-wrapper">
                     <div data-w-id="service-1" class="numbers-wrap">
                         <h6 class="small-heading">Highly Trained Security Personnel</h6>
-                        <p class="short-description">Our security Petrol Service officers are trained to handle a wide
+                        <p class="short-description">Our security Petrol Service officers are trained to handle a w ide
                             range of situations with expertise and discretion. Each member of our team is equipped to deter
                             potential threats, respond quickly to
                             emergencies, and provide visible, effective protection.

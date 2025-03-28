@@ -59,10 +59,15 @@
 
              </div>
              <div class="footer-social-icons-wrapper"><a
-                     href="https://www.facebook.com/p/Masoud-Khalili-100015873754015/" target="_blank"
-                     class="footer-social-icon"></a><a href="https://twitter.com/" target="_blank"
-                     class="footer-social-icon"></a><a href="https://ca.linkedin.com/in/masoud-khalili-4441ba28"
-                     target="_blank" class="footer-social-icon"></a></div>
+                     href="https://www.facebook.com/profile.php?id=61574042383423" target="_blank"
+                     class="footer-social-icon"></a><a href="https://x.com/peaksecurity" target="_blank"
+                     class="footer-social-icon"></a><a href="https://www.linkedin.com/company/peak-security-servcies/about/?viewAsMember=true"
+                     target="_blank" class="footer-social-icon"></a>
+                     <a href="https://www.instagram.com/peak_security/?hl=en" target="_blank"
+                     class="footer-social-icon"></a>
+                     
+                     
+                     </div>
          </div>
      </div>
  </div>

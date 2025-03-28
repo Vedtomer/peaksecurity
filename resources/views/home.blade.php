@@ -194,7 +194,7 @@
                 <h1 data-w-id="87ac9c0f-71ee-e684-3b17-8e2b9a9d0c54" style="opacity:0" class="home-1-banner-title">
                     Best Security Company in Surrey BC with Professionals Security Services</h1>
                 <p data-w-id="1daaf06d-f551-7396-6e73-92224c8052ac" style="opacity:0" class="title-description width">
-                    Licensed, bonded, and uniformed, we deliver affordable security services across Canada, including expert guarding, patrols, and CCTV installations, ensuring comprehensive protection for your property and peace of mind.</p>
+                    Peak Security is the Best Security Company in Surrey BC. Licensed, bonded, and uniformed, we deliver affordable security services across British Columbia, Vancouver, Langley, Delta, and Coquitlam. This includes expert guarding, patrols, and CCTV installations, ensuring comprehensive protection for your property and peace of mind.</p>
                 <div data-w-id="0c0c196a-2366-25d9-b3c6-56e19f24bc27" style="opacity:0" class="banner-button-wrapper"><a
                         href="/about-us" class="primary-button w-button">About Us</a><a href="/contact-us"
                         class="white-button-bg w-button">Contact Us</a></div>
@@ -210,7 +210,8 @@
             </div>
             <div class="service-list-2-bottom-left-block animate-fadeIn medium-title"
                 style="display:flex;flex-direction:column;align-items:center;justify-content:center">
-                <h6 class="modern-heading">Patrolling the Streets, Securing Your Peace of Mind</h6>
+                <h6 class="modern-heading">Best security company in Surrey BC -  Patrolling the Streets, Securing Your Peace of Mind
+           </h6>
                 <p class="modern-paragraph">
                     Our state-of-the-art patrol vehicles are on the move 24/7, ensuring the safety and security of your
                     neighborhood.
@@ -238,7 +239,7 @@
     <section class="section" style="padding-top: 0px">
         <div class="base-container w-container">
             <div class="services-top-wrapper">
-                <h2 data-w-id="001c2476-113b-a8a6-0f44-fc19431db125" style="opacity:0" class="medium-title">Security Services
+                <h2 data-w-id="001c2476-113b-a8a6-0f44-fc19431db125" style="opacity:0" class="medium-title">Our Security Services in Surrey BC - Peak Security
                 </h2><a data-w-id="e51817a0-5920-23c8-44e0-271cedb9ed66" style="opacity:0" href="/our-services"
                     class="primary-button">view all</a>
             </div>
@@ -254,9 +255,7 @@
                                         class="w-inline-block">
                                         <h3 class="services-title">Security Guard Services</h3>
                                     </a>
-                                    <p class="services-info">Our trained security guards are deployed on-site to ensure the
-                                        safety and protection of people and property, providing a reliable presence to deter
-                                        and respond to security threats.</p>
+                                    <p class="services-info">Peak Security, one of the best security guard companies in Surrey BC, ensures that our professional Canada security guards are stationed at your location to safeguard both individuals and assets. They offer a dependable presence that helps prevent and address security risks, ensuring your safety is always a top priority.</p>
                                     <div class="services-link-wrap">
                                         <a href="#" class="third-button">
                                             <img src="{{ asset('images/guard.gif') }}" alt="Security guard services">
@@ -274,9 +273,8 @@
                                         class="w-inline-block">
                                         <h3 class="services-title">Mobile Patrol Services</h3>
                                     </a>
-                                    <p class="services-info">We provide hourly patrols with uniformed security officers to
-                                        give you the peace of mind you deserve, ensuring continuous monitoring and rapid
-                                        response to any incidents.</p>
+                                    <p class="services-info">Peak Security provides the top security companies in Surrey BC, provides uniformed security officers who conduct regular patrols on an hourly basis, offering ongoing surveillance and swift incident response. This service ensures peace of mind by maintaining constant monitoring and effective security for your property or premises.
+                                 </p>
                                     <div class="services-link-wrap">
                                         <a href="#" class="third-button">
 
@@ -299,9 +297,8 @@
                                         class="w-inline-block">
                                         <h3 class="services-title">CCTV Installation & Guidance</h3>
                                     </a>
-                                    <p class="services-info">Our experts offer comprehensive CCTV installation and guidance
-                                        services, ensuring your premises are well-monitored with state-of-the-art
-                                        surveillance systems.</p>
+                                    <p class="services-info">Our skilled professionals deliver complete CCTV installation and advisory services, ensuring your property is equipped with cutting-edge surveillance technology for optimal monitoring and enhanced security, tailored to meet your specific needs.
+                                  </p>
                                     <div class="services-link-wrap">
                                         <a href="#" class="third-button">
                                             <img src="{{ asset('images/cctv.gif') }}" alt="CCTV Installation and Guidance">
@@ -324,12 +321,9 @@
             <div class="security-wrapper">
                 <div class="top-security-wrap">
                     <div data-w-id="d7c4f08b-7d53-ed37-a5ff-9ac5cc42be68" class="left-security-wrap">
-                        <h2 data-w-id="4c2249c5-73d0-61c6-15de-13d91097c27d" class="medium-title">Comprehensive Security
-                            Services for Your Safety</h2>
-                        <p data-w-id="291133d2-7bb5-87df-9da8-a25ff52d6b46" class="info-title">Our expert security
-                            services
-                            include round-the-clock patrolling, professional guard services, and state-of-the-art CCTV
-                            installation to ensure your complete protection.</p>
+                        <h2 data-w-id="4c2249c5-73d0-61c6-15de-13d91097c27d" class="medium-title">Complete Security Services in Surrey BC for Your Protection</h2>
+                        <p data-w-id="291133d2-7bb5-87df-9da8-a25ff52d6b46" class="info-title">We offer a full range of professional Security Services solutions, including 24/7 patrols, trained security personnel, and advanced CCTV systems, all designed to provide comprehensive protection and peace of mind for your property and assets.
+                       </p>
                         <div class="banner-button-wrapper">
                             <a data-w-id="862431b7-3fca-32dd-ba42-dffc7615cd11" href="/about-us"
                                 class="primary-button">More About Us</a>
@@ -342,11 +336,8 @@
                         loading="lazy" data-w-id="96a0ed23-50d7-f2c6-fd9b-c38866626373" alt="24/7 Security Surveillance with Advanced CCTV Systems"
                         class="right-camera-image" />
                     <div data-w-id="96a0ed23-50d7-f2c6-fd9b-c3886662636b" class="left-security-wrap">
-                        <h2 data-w-id="96a0ed23-50d7-f2c6-fd9b-c3886662636c" class="medium-title">24/7 Surveillance with
-                            Advanced CCTV Systems</h2>
-                        <p data-w-id="96a0ed23-50d7-f2c6-fd9b-c3886662636e" class="info-title">Our CCTV systems feature
-                            high-definition resolution, night vision, and motion detection, providing you with constant
-                            monitoring and peace of mind.</p>
+                        <h2 data-w-id="96a0ed23-50d7-f2c6-fd9b-c3886662636c" class="medium-title">24/7 Surveillance residential and commercial security system with Advanced CCTV </h2>
+                        <p data-w-id="96a0ed23-50d7-f2c6-fd9b-c3886662636e" class="info-title">Our advanced CCTV systems provide residential and commercial security systems that offer high-definition video quality, night vision capabilities, and motion detection, ensuring continuous surveillance and enhanced security for your property, day or night, so you can rest easy knowing you're always protected.</p>
                         <div class="banner-button-wrapper">
                             <a data-w-id="96a0ed23-50d7-f2c6-fd9b-c38866626371" href="/our-services"
                                 class="primary-button">Discover Now</a>
@@ -400,11 +391,11 @@
                     <img src="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/64760b50a2274699f5d1dcad_icon.png"
                         loading="lazy" style="opacity:0" data-w-id="ffff9db3-6402-7936-3450-3d10439fa4b0"
                         alt="Lock security" />
-                    <h2 data-w-id="46f904ba-b8fd-3ec2-b294-1b3e991e74ac" style="opacity:0" class="medium-title width">
-                        Enhance Security with Peak Security</h2>
+                    <h3 data-w-id="46f904ba-b8fd-3ec2-b294-1b3e991e74ac" style="opacity:0" class="medium-title width">
+                        Elevate Your Protection With Peak Security - The Best Security Company in Surrey BC</h3>
                     <p data-w-id="867c3ccf-87c7-fdb5-9381-569952ee4b17" style="opacity:0" class="short-description">
-                        Our advanced technologies and expert security professionals ensure unparalleled protection for your
-                        property against all threats.
+                     Our company, based in Surrey, BC, utilizes advanced technology and a team of highly skilled security services experts to offer unparalleled protection for your property, ensuring it is shielded from any potential threats.
+
                     </p>
                     <img class="image-camera"
                         src="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/64760bdf491e945217a963ad_image.webp"
