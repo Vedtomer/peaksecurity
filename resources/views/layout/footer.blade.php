@@ -42,15 +42,12 @@
                         </div>
                     </div> --}}
              </div>
-             {{-- <div class="footer-link-wrap">
-                 <div class="footer-links-wrapper"><a href="/" aria-current="page"
-                         class="footer-link w--current">Home</a><a href="/about-us" class="footer-link">About</a></div>
-                 <div class="footer-links-wrapper div-block-7 div-block-8"><a href="/our-team" class="footer-link">Our
-                         Team</a><a href="/services" class="footer-link">Services</a>
-                 </div>
-                 <div class="footer-links-wrapper"><a href="/projects" class="footer-link">Projects</a><a href="/blog"
-                         class="footer-link">Blog</a></div>
-             </div> --}}
+             <div class="footer-links-wrap">
+                <h4 class="medium-title left-text" style="text-align: justify;margin-bottom:20px">SERVICES</h4>
+                <a href="services/security-guard-services" class="d-block py-5p text-left footer-link">Security Guard Services</a>
+                <a href="services/security-guard-services" class="d-block py-5p text-left footer-link">Patrol Services</a>
+                <a href="services/security-guard-services" class="d-block py-5p text-left footer-link">CCTV Services</a>
+             </div>
          </div>
          <div class="copyright-wrapper" style="padding-top:0px">
              <div class="footer-bottom-wrapper">
@@ -65,8 +62,8 @@
                      target="_blank" class="footer-social-icon"></a>
                      <a href="https://www.instagram.com/peak_security/?hl=en" target="_blank"
                      class="footer-social-icon"></a>
-                     
-                     
+
+
                      </div>
          </div>
      </div>

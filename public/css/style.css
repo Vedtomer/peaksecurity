@@ -11262,6 +11262,19 @@ blockquote {
     line-height: 1.6em;
   }
 
+  .d-block {
+    display: block !important;
+  }
+
+  .text-left{
+    text-align: left !important;
+  }
+
+  .py-5p{
+    padding-top:5px !important;
+    padding-bottom:5px !important;
+  }
+
   .style-guide-button-wrapper {
     width: 100%;
   }
