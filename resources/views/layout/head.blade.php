@@ -253,4 +253,5 @@
         }
     </style>
     @yield('styles')
+    @yield('seo-script')
 </head>
