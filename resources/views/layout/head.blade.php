@@ -3,6 +3,7 @@
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <meta name="csrf-token" content="{{ csrf_token() }}">
+    
     {!! SEO::generate() !!}
     <link href="{{ asset('css/style.min.css') }}" rel="stylesheet" type="text/css" />
     <style>
@@ -207,9 +208,9 @@
         }(window, document);
     </script>
 
-    <link href="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/6481b6149183c6fd9bc93199_favicon.png"
+    <link href="https://www.peak-security.ca/images/peak-security-logo.png"
         rel="shortcut icon" type="image/x-icon" />
-    <link href="https://assets-global.website-files.com/64735306bb4de7eb23c0f5ee/6481b6172bddba5bb58e619c_webclop.png"
+    <link href="https://www.peak-security.ca/images/peak-security-logo.png"
         rel="apple-touch-icon" />
 
     <style>

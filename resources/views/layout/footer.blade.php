@@ -25,6 +25,7 @@
                      <p class="contacts-icon"></p>
                      <a href="mailto:masoudsecurity@gmail.com" class="paragraph-no-margin">masoudsecurity@gmail.com</a>
                  </div>
+                 
                  {{-- <h2 class="medium-title left-text">Sing Up to Newsletter</h2>
                     <div class="from w-form">
                         <form id="email-form" name="email-form" data-name="Email Form" method="get"
@@ -42,6 +43,7 @@
                         </div>
                     </div> --}}
              </div>
+             
              {{-- <div class="footer-link-wrap">
                  <div class="footer-links-wrapper"><a href="/" aria-current="page"
                          class="footer-link w--current">Home</a><a href="/about-us" class="footer-link">About</a></div>
@@ -56,10 +58,12 @@
              <div class="footer-bottom-wrapper">
                  <div class="footer-copyright">© Security. All Rights Reserved 2024. <a href="/"
                          class="footer-copyright">Peak Security</a></div>
-
+                         
+                     
+    
              </div>
-             <div class="footer-social-icons-wrapper"><a
-                     href="https://www.facebook.com/profile.php?id=61574042383423" target="_blank"
+             <div class="footer-social-icons-wrapper">
+                 <a href="https://www.facebook.com/profile.php?id=61574042383423" target="_blank"
                      class="footer-social-icon"></a><a href="https://x.com/peaksecurity" target="_blank"
                      class="footer-social-icon"></a><a href="https://www.linkedin.com/company/peak-security-servcies/about/?viewAsMember=true"
                      target="_blank" class="footer-social-icon"></a>
