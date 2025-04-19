@@ -268,7 +268,7 @@
 
     <div class="section yellow-bg" style="padding:30px 0px">
         <div class="base-container w-container" style="padding-bottom: 0px">
-            
+
             <div class=" " style="margin-bottom:0px;text-align:center">
                 <h4 data-w-id="d46bd76c-3549-92cc-5606-39f5f9660d0d" style="opacity:1" >
                     Contact us
@@ -286,4 +286,10 @@
 
         </div>
     </div>
+@endsection
+
+@section('seo-script')
+<script>
+
+</script>
 @endsection

@@ -77,7 +77,7 @@
                 </a>
                 <p class="services-info">
                   Our highly trained <a href="/services/security-guard-services"style="color:red">Security Guard</a> provide on-site protection for your property and personnel. Available 24/7 for various settings including commercial, residential, and events.
-                
+
                 </p>
               </div>
             </div>
@@ -192,4 +192,9 @@
   </div>
 </div>
 
+@endsection
+@section('seo-script')
+<script>
+
+</script>
 @endsection
